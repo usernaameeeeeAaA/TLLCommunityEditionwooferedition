@@ -54,10 +54,10 @@ Jewel 33 ground
 Goldegg 4 ground
 Relic 10 ground
 ;
-Island_Calamity: 30 88
+Island_Calamity: 27 27
 Foam 60 water
 ;
-Island_GM: 30 88
+Island_GM: 27 27
 Seaweed 60 bulbs
 ;
 CatBoi: 2 10
