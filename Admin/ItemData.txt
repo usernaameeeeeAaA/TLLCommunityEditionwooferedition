@@ -58,7 +58,7 @@ Island_Calamity: 30 88
 Foam 60 water
 ;
 Island_GM: 30 88
-Seaweed 60 Bulbs
+Seaweed 60 bulbs
 ;
 CatBoi: 2 10
 Catfur 33 catfurSpawn
