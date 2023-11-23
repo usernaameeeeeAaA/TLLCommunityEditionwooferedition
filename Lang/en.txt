@@ -807,6 +807,10 @@ str_TeleportUnavailable=Not available on this island
 str_stats=Species: <species>\nClass: <class>\nRate: <rate>\nMax: <max>
 str_extra=Extra
 
+str_dunes_release=Welcome to Archaic Dunes!
+str_dunes_desc=This island, formerly thought to have been inaccessible, the power of the season of Yay has allowed the Skyship to travel here! 
+str_dunes_skyship=Teleport to Archaic Dunes? This will encase the monster in sand.
+
 diamonds - <color=#4EFFF5>
 coins - <color="yellow">
 food - <color=#F318D1>
