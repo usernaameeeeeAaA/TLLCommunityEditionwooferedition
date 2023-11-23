@@ -1751,3 +1751,23 @@ Priszum
 Kazak
 Stan
 ;
+Monsters/Monster_skibidiToilet
+Ohio-ussy
+Rizzler
+Tanum Fax
+Sigmund
+Big Flungus
+Gyattoilet
+Mr. Uncanny
+Pomni
+Never
+Gonna
+Give
+You
+Up
+Never
+Gonna
+Let
+You
+Down
+;
