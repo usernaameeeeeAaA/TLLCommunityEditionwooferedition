@@ -517,7 +517,7 @@ Structures/Structure_timemachine=Time Machine
 Structures/Structure_timemachine_bio=This strange and peculiar structure can warp time! Use the slider to slow down or speed up the music!
 
 Structures/Structure_masher=Masher
-Structures/Structure_masher_bio=This is the Masher! Stick your items in and watch them be proccessed into delicious snacks for the youngsters!
+Structures/Structure_masher_bio=This is the Masher! Stick your items in and watch them be processed into delicious snacks for the youngsters!
 
 Monsters/Composer/Monster_potbelly_composer=Potbelly
 Monsters/Composer/Monster_potbelly_composer_bio=Potbelly bio
