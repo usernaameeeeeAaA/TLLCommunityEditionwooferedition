@@ -18,7 +18,7 @@ HasCostOvrwrite=true
 IsCostOvrwritePercentage=true
 CostOverwrite=50
 HasDeadline=true
-Deadline=11/26/2023 01:00:00 PM
+Deadline=11/26/2023 12:00:00 AM
 ;
 ID=Monsters/Monster_varrow_rare
 MarketSortersID=monsters
