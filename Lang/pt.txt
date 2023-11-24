@@ -220,7 +220,7 @@ Monsters/Monster_flootfly=Mosca-da-Flauta
 Monsters/Monster_flootfly_bio=A mística Mosca-da-Flauta é um dos monstros mais comuns de se encontras nas Paisagens Perdidas, pois, ele é um dos mais amigáveis nos arredores! Moscas-da-Flauta amam fazer festas do chá nos lugares mais bizarros! Convites para uma festa do chá são sempre reverenciados e aceitos com alegria, porque é um ótimo lugar para socializar e fofocar!
 
 Monsters/Monster_clackula_young=Estrácula Bebê
-Monsters/Monster_clackula_young_bio=Young Clackula bio
+Monsters/Monster_clackula_young_bio=Apesar de tímido e quieto, as mãos de um pequeno Estrácula tem uma ótima utilidade! O formato afiado e o corte de seus dentes de leite, causam uma impressão assustadora para outros monstros, seus companheiros de ilha fazem questão de manter a calma e paciência com esse monstro, afinal, Estráculas estão frequentemente aprendendo a se comportar e ter boas maneiras numa mesa de jantar por exemplo... 
 
 Monsters/Monster_clackula=Estrácula
 Monsters/Monster_clackula_bio=Clackula bio
@@ -289,11 +289,10 @@ Monsters/Monster_stoopa=Stupa
 Monsters/Monster_stoopa_bio=Não se sabe muito sobre o pântano enevoado no coração de Evergreen Woods, mas há boatos de um estranho monstro que vigia e conduz a canção dos monstros que ali residem. E olhe só, ele está aqui! Stupa é ainda mais especializada em reciclagem do que o Tambor-Tronco, coletando qualquer coisa na natureza para tocar na sua parte na canção, mesmo que tenha que fazer algumas exceções em sua regra de "tudo natural"... send elas suas panelas de potes contidos em seu... pilão? Ainda se sabe muito pouco sobre ela, e Stupa prefere manter as coisas assim. Enquanto isso, este monstro misterioso maneja seu estranho cajado e guarda os segredos do Pântano.
 
 Monsters/Monster_gloptic=Visscolha
-Monsters/Monster_gloptic_bio=Young Gloptic bio
+Monsters/Monster_gloptic_bio=vi
 
 Monsters/Monster_gloptic_young=Visscolha Bebê
-Monsters/Monster_gloptic_young_bio=Young Gloptic bio
-
+Monsters/Monster_gloptic_young_bio=A glótica Visscolha Jovem é conhecida por sua pele escorregadia e muco pegajoso, resultado de quedas causadas pela falta de jeito juvenil. Adaptadas a uma gravidade mais baixa, essas criaturas possuem globos oculares grandes e expostos, mas surpreendentemente, não são alvos fáceis. Uma camada espessa ao redor dos olhos, como uma lente protetora evolutiva, protege contra danos diretos. No entanto, essa lente acumula o muco natural, retardando sua visão e contribuindo para mais escorregões. O habitat ideal para a Visscolha Jovem deve incluir preenchimento para suavizar suas quedas e facilitar seu desenvolvimento.
 
 ###--Mythicals------------------------------------------###
 Monsters/Monster_wheezel=Sibilinha
@@ -478,23 +477,23 @@ Monsters/VOIDCORN=<color="red">V O I D C O R N
 WublinStatueBio=Estátuas de Wubcaixoblins foram cuidadosamente trabalhadas pelo seu misterioso criador, nos mínimos detalhes. Agora só falta dar a elas a vida! Em vez de mandá-los para o berçário, destrua os ovos de monstros que você criou em suas outras ilhas, e eles se transformarão na energia elétrica necessária para acordar este Wubcaixoblin.
 
 Monsters/Monster_dipster_1=Dó
-Monsters/Monster_dipster_1_bio=Do bio
+Monsters/Monster_dipster_1_bio=
+Tímidos à luz solar, os Acanhados constroem suas casas no subsolo. A música abafada que vem de cima dá aos Acanhados a coragem de se levantarem e se juntarem à melodia harmoniosa,  mesmo que seja apenas uma nota de cada vez... Os Acanhados são criaturas engenhosas e coletam materiais naturais para enfeitar as entradas de seus túneis e diferencia-las dos demais. Ninguém sabe até onde vai um buraco de um Acanhado, apenas eles mesmos!
 Monsters/Monster_dipster_2=Ré
-Monsters/Monster_dipster_2_bio=Re bio
+Monsters/Monster_dipster_2_bio=<ref>Monster_dipster_1_bio
 Monsters/Monster_dipster_3=Mi
-Monsters/Monster_dipster_3_bio=Mi bio
+Monsters/Monster_dipster_3_bio=<ref>Monster_dipster_1_bio
 Monsters/Monster_dipster_4=Fá
-Monsters/Monster_dipster_4_bio=Fa bio
+Monsters/Monster_dipster_4_bio=<ref>Monster_dipster_1_bio
 Monsters/Monster_dipster_5=Sol
-Monsters/Monster_dipster_5_bio=Sol bio
+Monsters/Monster_dipster_5_bio=<ref>Monster_dipster_1_bio
 Monsters/Monster_dipster_6=Lá
-Monsters/Monster_dipster_6_bio=La bio
+Monsters/Monster_dipster_6_bio=<ref>Monster_dipster_1_bio
 Monsters/Monster_dipster_7=Si
-Monsters/Monster_dipster_7_bio=Si bio
+Monsters/Monster_dipster_7_bio=<ref>Monster_dipster_1_bio
 
 Monsters/Monster_percFrog=Sapatida
-Monsters/Monster_percFrog_bio=Amphibeat is a frog. How did you even get this monster? Did you get the combo from my 20k special video? If not then idk..    Azu wuz here :3
-
+Monsters/Monster_percFrog_bio=Sapinho :), Como vc conseguiu ele??
 
 #--STRUCTURES--##
 ###--Castles------------------------------------------###
