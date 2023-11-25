@@ -693,7 +693,7 @@ Decoration/Obstacle_EM_5_bio=It's a truffle. <ref>ObstacleMushroomsbio
 Decoration/Obstacle_EM_6=Puff Shroom
 Decoration/Obstacle_EM_6_bio=It's a puff shroom. <ref>ObstacleMushroomsbio
 
-ObstaclePlacableShroom_bio=Remember how we said mushrooms and fungi that are removed from your islands will find new homes elsewhere? Good news - these are somebody else's mushrooms and fungi and this marsh is their new home! Mushroom recycling is awesome.
+ObstaclePlacableShroom_bio=Remember how we said mushrooms and fungi that are removed from your islands will find new homes elsewhere? Good news - these are somebody else's mushrooms and fungi, and this marsh is their new home! Mushroom recycling is awesome.
 
 Decoration/Obstacle_placable_EM_1=<ref>Decoration/Obstacle_EM_1
 Decoration/Obstacle_placable_EM_1_bio=<ref>ObstaclePlacableShroom_bio
@@ -709,9 +709,9 @@ Decoration/Obstacle_placable_EM_6=<ref>Decoration/Obstacle_EM_6
 Decoration/Obstacle_placable_EM_6_bio=<ref>ObstaclePlacableShroom_bio
 
 ObstacleCommonRocks_bio=Removed rocks will be taken far away to wonderful new homes.
-ObstacleCommonTrees_bio=Don't worry; removed trees will be taken far away and gently replanted.
+ObstacleCommonTrees_bio=Don't worry; removed trees will be taken far away and gently replanted in their wonderful new homes.
 
-Decoration/Obstacle_Candy_1=Small Rock.
+Decoration/Obstacle_Candy_1=Small Rock
 Decoration/Obstacle_Candy_1_bio=It's a Small Rock. <ref>ObstacleCommonRocks_bio
 Decoration/Obstacle_Candy_2=Medium Rock
 Decoration/Obstacle_Candy_2_bio=It's a Medium Rock. <ref>ObstacleCommonRocks_bio
@@ -744,15 +744,15 @@ ObstacleCommonBones_bio=Removed bones will be taken far away and crushed to bone
 
 ObstaclePlacableBones_bio=Remember how we said that bones that are removed from your islands get crushed to bonemeal? Good news - we lied and these are the bones that you got rid of. Live with that now :>
 
-ObstacleKnottTree=It contains a special power that can resurrect life. Don't worry, if you cut it down, it won't harm the ecosystem of this island. Everything here is dead anyway...
-ObstacleKnottRock=This rock, just like the rest of the rocks on this island, hold a potential for magical powers! But the ways of extracting said magic is lost to time. Oh well...
+ObstacleKnottTree=This tree contains a special power that can resurrect life. Don't worry, if you cut it down, it won't harm the ecosystem of this island. Everything here is dead anyway...
+ObstacleKnottRock=This rock, just like the rest of the rocks on this island, holds a potential for magical powers! But the ways of extracting said magic is lost to time. Oh well...
 
-Decoration/Obstacle_Knott_1=Fluff tree
-Decoration/Obstacle_Knott_1_bio=This is a Fluff tree. <ref>ObstacleKnottTree
-Decoration/Obstacle_Knott_2=Fluffier tree
-Decoration/Obstacle_Knott_2_bio=This is a Fluff tree but it's much mre fluffy that the usualy fluff tree. <ref>ObstacleKnottTree
-Decoration/Obstacle_Knott_3=The Fluffiest tree
-Decoration/Obstacle_Knott_3_bio=This is a Fluff tree. It's the fluffiest one yet. <ref>ObstacleKnottTree
+Decoration/Obstacle_Knott_1=Fluff Tree
+Decoration/Obstacle_Knott_1_bio=This is a Fluff Tree. <ref>ObstacleKnottTree
+Decoration/Obstacle_Knott_2=Fluffier Tree
+Decoration/Obstacle_Knott_2_bio=This is a Fluff Tree, but it's much more fluffy that the usual Fluff Tree. <ref>ObstacleKnottTree
+Decoration/Obstacle_Knott_3=Fluffiest Tree
+Decoration/Obstacle_Knott_3_bio=This is a Fluff Tree. It's the fluffiest one yet. <ref>ObstacleKnottTree
 
 Decoration/Obstacle_Knott_4=Small Bone
 Decoration/Obstacle_Knott_4_bio=<ref>ObstacleCommonBones_bio
@@ -768,7 +768,7 @@ Decoration/Obstacle_Knott_8_bio=<ref>ObstacleKnottRock
 Decoration/Obstacle_Knott_9=<ref>Decoration/Obstacle_Candy_3
 Decoration/Obstacle_Knott_9_bio=<ref>ObstacleKnottRock
 
-Decoration/Obstacle_Knott_10=Dug-out Black Hole
+Decoration/Obstacle_Knott_10=Dug-Out Black Hole
 Decoration/Obstacle_Knott_10_bio=A Black Hole with an artificial origin. How peculiar!
 
 Decoration/Obstacle_placable_Knott_1=<ref>Decoration/Obstacle_Knott_1
@@ -808,8 +808,8 @@ str_stats=Species: <species>\nClass: <class>\nRate: <rate>\nMax: <max>
 str_extra=Extra
 
 str_dunes_release=Welcome to Archaic Dunes!
-str_dunes_desc=This island, formerly thought to have been inaccessible, the power of the season of Yay has allowed the Skyship to travel here! 
-str_dunes_skyship=Teleport to Archaic Dunes? This will encase the monster in sand.
+str_dunes_desc=This island, formerly thought to have been inaccessible, the power of the Festival of Yay has allowed the Skyship to travel here! 
+str_dunes_skyship=Teleport to Archaic Dunes? This will encase the Monster in sand.
 
 diamonds - <color=#4EFFF5>
 coins - <color="yellow">
