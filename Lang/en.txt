@@ -329,7 +329,7 @@ Cimbasso + ickle
 Monsters/Knott_special_bio=Chimbickle bio
 
 Monsters/Knott_1_rare=Rare Knottshurr Tree
-Monsters/Knott_1_rare_bio=Thanks to the greening stalk-like body of Rare Knottshurr Tree, provided by one of the BooOos, it developed an anti-nymph odor, keeping them safe from those nasty plantcarvers. However, the newly developed smell just so happened to be chemically similar to the flitterfly pheromones. Thus, attracting even peskier pests. Long story short, it's now a flitterfly nest. 
+Monsters/Knott_1_rare_bio=Thanks to the greening stalk-like body of Rare Knottshurr Tree, provided by one of the BoOoos, it developed an anti-nymph odor, keeping them safe from those nasty plantcarvers. However, the newly developed smell just so happened to be chemically similar to the flitterfly pheromones. Thus, attracting even peskier pests. Long story short, it's now a flitterfly nest. 
 Monsters/Knott_2_rare=Rare Bay
 Monsters/Knott_2_rare_bio=Rare Bay bio
 Monsters/Knott_3_rare=Souxls Vessel
