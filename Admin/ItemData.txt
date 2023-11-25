@@ -7,6 +7,7 @@ Flower_red 33 flowers
 Flower_yellow 33 flowers
 Flower_blue 33 flowers
 Fruit_apple 10 flowers
+Berries 10 flowers
 ;
 Island_EM: 60 150
 Flower_red 10 flowers
@@ -53,12 +54,6 @@ Fabric 60 ground
 Jewel 33 ground
 Goldegg 4 ground
 Relic 10 ground
-;
-Island_Calamity: 27 27
-Foam 60 water
-;
-Island_GM: 27 27
-Seaweed 60 bulbs
 ;
 CatBoi: 2 10
 Catfur 33 catfurSpawn
