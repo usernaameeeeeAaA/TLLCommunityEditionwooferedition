@@ -1,5 +1,5 @@
 ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
-intro3;everyone;Welcome to TLL Extensions Private Server!;Hey there! Welcome to the TLL Extensions Private Server, A Private Server for MSM TLL! If you don't know how to play, go here: https://sites.google.com/view/msm-tll/home/tll-quickstart through the button below!Happy Monstering, from Azuran and Raw;icon@new;diamonds@9999999999999999;foodB@9999999999999999;food@9999999999999999;XP@9999999999999999;URL_LINK@Visit Tutorial Site@https://sites.google.com/view/msm-tll/home/tll-quickstart
+welcome;everyone;Welcome to TLL Community Edition!;Hey there! Welcome to the TLL Community Edition, A Private Server for MSM TLL! If you don't know how to play, go here: https://sites.google.com/view/msm-tll/home/tll-quickstart through the button below!Happy Monstering, from the MSM Extensions Team! ;icon@new;diamonds@9999999;foodB@9999999;food@9999999
 
 JoboBirthday;everyone;Imposter Available for 69% off!;Amogus, the voice behind Skibidi, turned 420 today!\n Imposter is available 69% off on Ohio Island for three days!;icon@discount
