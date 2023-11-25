@@ -281,6 +281,15 @@ Organ_path1 coins=500 0 0
 Organ_path2 coins=500 0 0
 Organ_path3 coins=850 0 0
 
+Candy_path1 coins=500 0 0
+Candy_path2 coins=500 0 0
+Candy_path3 coins=500 0 0
+Candy_path4 coins=500 0 0
+Candy_path5 coins=500 0 0
+Candy_path6 coins=500 0 0
+Candy_path7 coins=500 0 0
+Candy_path8 coins=500 0 0
+
 Monsters/Monster_toejammer coins=400 water 300 5 coins=1@120@coins=60 Natural toejammer,toejammer 0 0
 
 Decoration/Decoration_test coins=100 xpWhenPlaced:100 2 0
