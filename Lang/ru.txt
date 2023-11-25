@@ -136,10 +136,10 @@ Monsters/Monster_maw_young_bio=Неудивительно, что Юный Ус�
 Monsters/Monster_maw_meduza=<ref>Monsters/Monster_maw
 Monsters/Monster_maw_meduza_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monsters_reedling=Зелынка
-Monsters/Monsters_reedling_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monsters_reedling_rare=Редкая Зелынка
-Monsters/Monsters_reedling_rare_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_reedling=Зелынка
+Monsters/Monster_reedling_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_reedling_rare=Редкая Зелынка
+Monsters/Monster_reedling_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_reedling_young=Юная Зелынка
 Monsters/Monster_reedling_young_bio="Для чего же ещё сделана флейта, как не для какой-нибудь весёлой игры?", Всегда говорят юные Зелынки. Ну или это лишь предположение, что они пытаются донести, поскольку порывистых хрипов и пускания слюней пока нет в нашей базе данных переводимых языков. Тем не менее, этот миленький пёсик с радостью присоединяется к любым занятиям других монстрят.
 Monsters/Monster_reedling_young_singer=<ref>Monsters/Monster_reedling_young
@@ -1138,46 +1138,62 @@ Monsters/Monster_knife_bio=Данные отсутствуют. Приходит
 Monsters/Monster_knife_rare=Редкий Ножик
 Monsters/Monster_knife_rare_bio=Данные отсутствуют. Приходите позже.
 
-Monsters/Monster_catalizst=Котолизатор
-Monsters/Monster_catalizst_bio=Данные отсутствуют. Приходите позже.
-Monsters/Monster_catalizst_rare=Редкий Котолизатор
-Monsters/Monster_catalizst_rare_bio=м
+Monsters/Monster_cataliszt=Котолизатор
+Monsters/Monster_cataliszt_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_cataliszt_rare=Редкий Котолизатор
+Monsters/Monster_cataliszt_rare_bio=Данные отсутствуют. Приходите позже.
 
+Monsters/Monster_bleatnik_rock=Камень Блеяника
+Monsters/Monster_bleatnik_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bleatnik=Блеяник
 Monsters/Monster_bleatnik_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_bleatnik_rare=Редкий Блеяник
 Monsters/Monster_bleatnik_rare_bio=Данные отсутствуют. Приходите позже.
 
+Monsters/Monster_cranchee_rock=Камень Кальприза
+Monsters/Monster_cranchee_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cranchee=Кальприз
 Monsters/Monster_cranchee_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_cranchee_rare=Редкий Кальприз
 Monsters/Monster_cranchee_rare_bio=Данные отсутствуют. Приходите позже.
 
+Monsters/Monster_sporerow_rock=Камень Споробья
+Monsters/Monster_sporerow_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sporerow=Споробей
 Monsters/Monster_sporerow_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_sporerow_rare=Редкий Споробей
 Monsters/Monster_sporerow_rare_bio=Данные отсутствуют. Приходите позже.
 
+Monsters/Monster_pinghound_rock=Камень Звончей
+Monsters/Monster_pinghound_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pinghound=Звончая
 Monsters/Monster_pinghound_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_pinghound_rare=Редкая Звончая
 Monsters/Monster_pinghound_rare_bio=Данные отсутствуют. Приходите позже.
 
+Monsters/Monster_wheezel_rock=Камень Плеваски
+Monsters/Monster_wheezel_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wheezel=Плеваска
 Monsters/Monster_wheezel_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_wheezel_rare=Редкая Плеваска
 Monsters/Monster_wheezel_rare_bio=Данные отсутствуют. Приходите позже.
 
+Monsters/Monster_knurv_rock=Камень Нервидуна
+Monsters/Monster_knurv_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_knurv=Нервидун
 Monsters/Monster_knurv_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_knurv_rare=Редкий Нервидун
 Monsters/Monster_knurv_rare_bio=Данные отсутствуют. Приходите позже.
 
+Monsters/Monster_shlep_rock=Камень Мотывяла
+Monsters/Monster_shlep_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_shlep=Мотывял
 Monsters/Monster_shlep_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_shlep_rare=Редкий Мотывял
 Monsters/Monster_shlep_rare_bio=Данные отсутствуют. Приходите позже.
 
+Monsters/Monster_knifedreamyth_rock=Данные отсутствуют. Приходите позже.
+Monsters/Monster_knifedreamyth_rock_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_knifedreamyth=Данные отсутствуют. Приходите позже.
 Monsters/Monster_knifedreamyth_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_knifedreamyth_rare=Данные отсутствуют. Приходите позже.
