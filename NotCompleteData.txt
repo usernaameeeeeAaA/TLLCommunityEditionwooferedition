@@ -14,3 +14,4 @@ Monsters/Knott_7_rare
 Monsters/Knott_8_rare
 Monsters/Knott_9_rare
 Monsters/Knott_special_rare
+Monsters/Monster_treble
