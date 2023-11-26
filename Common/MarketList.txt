@@ -163,6 +163,7 @@ Monsters/Monster_psychic
 Monsters/Monster_faerie
 Monsters/Monster_light
 Monsters/Monster_bone
+Monsters/Monster_skibidiToilet
 -
 decorations:
 Decoration/Decoration_test
