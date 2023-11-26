@@ -2,5 +2,5 @@ ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to res
 
 welcome2community-edition-3;everyone;Welcome to TLL: Community Edition!;Hey there! Welcome to the TLL Community Edition, A Private Server for MSM:TLL! Have fun with the infinite currency- a gift from the MSM Extensions Team! Enjoy!;icon@new;diamonds@9999999;coins@9999999;food@9999999;foodB@9999999;Relic@9999999;Level@9999999;
 
-funny-edition-3;everyone;:D; If you seen this, send a screenshot of it in the MSM Extensions discord !;icon@new;diamonds@69;coins@420;
+funny-edition-3;everyone;:D; If you seen this, send a screenshot of it in the MSM Extensions discord !;icon@life;diamonds@69;coins@420;
 
