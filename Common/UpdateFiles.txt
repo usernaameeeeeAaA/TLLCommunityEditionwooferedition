@@ -1,5 +1,4 @@
-sdfghjkfgdfgfffffffffff78
-
+Monster_quibbleGM.prefab entity-d Monsters/Monster_quibbleGM
 
 desert_midi midi
 desert_sound audio Desert
@@ -37,4 +36,3 @@ calamityaudio audio-d Calamity
 calamity_pixolotl audio-d Calamity
 
 calamity midi-d
-
