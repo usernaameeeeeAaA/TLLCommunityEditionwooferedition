@@ -4,4 +4,4 @@ welcome2community-edition-3;everyone;Welcome to TLL: Community Edition!;Hey ther
 
 funny-edition-3;everyone;:D; If you seen this, send a screenshot of it in the MSM Extensions discord !;icon@new;diamonds@69;coins@420;
 
-gumtromps;SOIUVHURRHITNUEVMPNUWKSA;Your prize.;Hello, I have three rare gumdrops for you.;icon@gift;Monsters/Monster_gumtromp_rare;Monsters/Monster_gumtromp_rare;
+gift1;aNDSFQLWKVYJQGFMQAJMVHRLTAF;Your prize.;Hello, I have one ethanor for you.;icon@gift;Monsters/Monster_treble;
