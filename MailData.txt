@@ -5,3 +5,5 @@ welcome2community-edition-3;everyone;Welcome to TLL: Community Edition!;Hey ther
 funny-edition-3;everyone;:D; If you seen this, send a screenshot of it in the MSM Extensions discord !;icon@new;diamonds@69;coins@420;
 
 funny-edition-6;everyone;WHAT;one and a two can only be placed on Noramba Desert idk y;icon@new;Monsters/Monster_spurrit;Monsters/Monster_spurrit;Monsters/Monster_spurrit;
+
+Sketch;aNDSFQLWKVYJQGFMQAJMVHRLTAF;gumtromp;Hello, I have three rare gumdrops for you.;icon@gift;Monsters/Monster_gumtromp_rare;Monsters/Monster_gumtromp_rare;
