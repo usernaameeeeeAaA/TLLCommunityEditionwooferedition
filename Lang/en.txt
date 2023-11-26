@@ -272,7 +272,7 @@ Monsters/Monster_varrow_rare=Rare Varrow
 Monsters/Monster_varrow_rare_bio=What do you find when you place a needle inside a nutshell, inside a berry, in a cloth, place it in a chest, and bury it at the bottom of the marsh's waters? A Rare Varrow, that's what! These queer monsters have a penchance to anything puzzling and paradoxical- including themselves! While it's unknown how these odd monsters came into existence, they're here to stay, boasting their garments and trinkets from distant lands and giving everyone something to ponder every chance they get...
 
 Monsters/Monster_banno_rare=Rare Banno
-Monsters/Monster_banno_rare_bio=twerking.
+Monsters/Monster_banno_rare_bio=Rare Banno is an extraordinary monster, with the biggest gyatt in the monster world
 
 
 
