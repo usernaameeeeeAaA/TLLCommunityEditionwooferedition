@@ -163,6 +163,9 @@ Monsters/Monster_torrt
 Monsters/Monster_loodvigg
 Monsters/Monster_hornacle
 Monsters/Monster_syncopite
+Monsters/Monster_galvana
+Monsters/Monster_blasoom
+Monsters/Monster_glaishur
 Monsters/Monster_attmoz
 Monsters/Monster_vhamp
 Monsters/Monster_furnoss
