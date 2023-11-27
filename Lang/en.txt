@@ -447,7 +447,7 @@ Monsters/Monster_bone_bio=In a distant land, born of the tear of a dying star, a
 Monsters/Monster_psychic=Talactic
 Monsters/Monster_psychic_bio=Macrocranium bio
 Monsters/Monster_faerie=Chordyrid
-Monsters/Monster_faerie_bio=Chordyrid bio
+Monsters/Monster_faerie_bio=Some might mistake this monster for a humbug varient, but you'd be completely wrong! Harnessing the element of Faerie, Chordyrid can now fly thanks to this special element.
 
 Structures/Structure_breeding=Breeding Structure
 Structures/Structure_breeding_bio=Breeding Structure bio
