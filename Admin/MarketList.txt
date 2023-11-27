@@ -1,22 +1,30 @@
 
 EM
 monsters:
-Monsters/Monster_toejammer diamonds=25
-Monsters/Monster_potbelly diamonds=25
-Monsters/Monster_tweedle diamonds=25
-Monsters/Monster_flootfly diamonds=25
-Monsters/Monster_oaktopus diamonds=50
-Monsters/Monster_dandidoo diamonds=50
-Monsters/Monster_likho diamonds=75
-Monsters/Monster_wadee diamonds=75
-Monsters/Monster_varrow diamonds=75
-Monsters/Monster_quibble diamonds=50
-Monsters/Monster_spunge diamonds=90
-Monsters/Monster_choral diamonds=100
-Monsters/Monster_dulsylvan diamonds=100
-Monsters/Monster_banno diamonds=100
-Monsters/Monster_stoopa diamonds=250
-Monsters/Monster_maulch coins=25000
+Monsters/Monster_toejammer diamonds=0
+Monsters/Monster_potbelly diamonds=0
+Monsters/Monster_tweedle diamonds=0
+Monsters/Monster_flootfly diamonds=0
+Monsters/Monster_oaktopus diamonds=0
+Monsters/Monster_dandidoo diamonds=0
+Monsters/Monster_likho diamonds=0
+Monsters/Monster_wadee diamonds=0
+Monsters/Monster_varrow diamonds=0
+Monsters/Monster_quibble diamonds=0
+Monsters/Monster_spunge diamonds=0
+Monsters/Monster_choral diamonds=0
+Monsters/Monster_dulsylvan diamonds=0
+Monsters/Monster_banno diamonds=0
+Monsters/Monster_stoopa diamonds=0
+Monsters/Monster_maulch coins=0
+Monsters/Monster_toejammer_rare diamonds=0
+Monsters/Monster_oaktopus_rare diamonds=0
+Monsters/Monster_quibble_rare diamonds=0
+Monsters/Monster_varrow_rare diamonds=0
+Monsters/Monster_spunge_rare diamonds=0
+Monsters/Monster_dulsylvan_rare diamonds=0
+Monsters/Monster_banno_rare diamonds=0
+Monsters/Monster_phangler_rare diamonds=0
 -
 monster_secret:
 Monsters/Monster_percFrog
@@ -109,12 +117,12 @@ Monsters/Composer/Monster_stoopa_composer coins=10
 ;
 Composer
 monsters:
-Monsters/Composer/Monster_toejammer_composer coins=10
-Monsters/Composer/Monster_potbelly_composer coins=10
-Monsters/Composer/Monster_tweedle_composer coins=10
-Monsters/Composer/Monster_flootfly_composer coins=10
-Monsters/Composer/Monster_choral_composer coins=10
-Monsters/Composer/Monster_likho_composer coins=10
+Monsters/Composer/Monster_toejammer_composer coins=0
+Monsters/Composer/Monster_potbelly_composer coins=0
+Monsters/Composer/Monster_tweedle_composer coins=0
+Monsters/Composer/Monster_flootfly_composer coins=0
+Monsters/Composer/Monster_choral_composer coins=0
+Monsters/Composer/Monster_likho_composer coins=0
 Monsters/Composer/Monster_wadee_composer coins=10
 Monsters/Composer/Monster_quibble_composer coins=10
 Monsters/Composer/Monster_stoopa_composer coins=10
@@ -127,10 +135,10 @@ Monsters/Monster_tweedle_young
 Monsters/Monster_toejammer_young
 Monsters/Monster_noggin_young
 Monsters/Monster_kayna_young
-Monsters/Monster_fluoress_young coins=200
-Monsters/Monster_theremind_young coins=300
-Monsters/Monster_flootfly_young coins=300
-Monsters/Monster_clackula_young coins=400
+Monsters/Monster_fluoress_young coins=0
+Monsters/Monster_theremind_young coins=0
+Monsters/Monster_flootfly_young coins=0
+Monsters/Monster_clackula_young coins=0
 Monsters/Monster_oaktopus_young
 Monsters/Monster_dandidoo_young
 Monsters/Monster_maw_young
@@ -150,6 +158,18 @@ Monsters/Monster_punkleton_young
 monsters_celestials:
 Monsters/Monster_plixie
 Monsters/Monster_psychic
+Monsters/Monster_scaratar
+Monsters/Monster_torrt
+Monsters/Monster_loodvigg
+Monsters/Monster_hornacle
+Monsters/Monster_syncopite
+Monsters/Monster_attmoz
+Monsters/Monster_vhamp
+Monsters/Monster_furnoss
+Monsters/Monster_light
+Monsters/Monster_bone
+Monsters/Monster_psychic
+Monsters/Monster_faerie
 -
 decorations:
 Decoration/Decoration_test
@@ -280,20 +300,20 @@ Decoration/Dog
 ;
 Organs
 monsters:
-Monsters/Monster_handmond coins=10000
-Monsters/Monster_whimstlop diamonds=150
-Monsters/Monster_theremind diamonds=80
-Monsters/Monster_oaktopus diamonds=100
-Monsters/Monster_boskus diamonds=100
-Monsters/Monster_cybop diamonds=100
-Monsters/Monster_denchuhs diamonds=120
-Monsters/Monster_clamble diamonds=300
-Monsters/Monster_shellbeat diamonds=700
-Monsters/Monster_schmoochle diamonds=1000
-Monsters/Monster_plixie diamonds=5000
-Monsters/Monster_reebro diamonds=4000
-Monsters/Monster_wheezel_rock diamonds=30
-Monsters/Monster_knurv_rock diamonds=40
+Monsters/Monster_handmond coins=0
+Monsters/Monster_whimstlop diamonds=0
+Monsters/Monster_theremind diamonds=0
+Monsters/Monster_oaktopus diamonds=0
+Monsters/Monster_boskus diamonds=0
+Monsters/Monster_cybop diamonds=0
+Monsters/Monster_denchuhs diamonds=0
+Monsters/Monster_clamble diamonds=0
+Monsters/Monster_shellbeat diamonds=0
+Monsters/Monster_schmoochle diamonds=0
+Monsters/Monster_plixie diamonds=0
+Monsters/Monster_reebro diamonds=0
+Monsters/Monster_wheezel_rock diamonds=0
+Monsters/Monster_knurv_rock diamonds=0
 -
 monster_rares:
 Monsters/Monster_oaktopus_rare
@@ -348,16 +368,16 @@ Decoration/Dog
 ;
 Meduza
 monsters:
-Monsters/Monster_mammott_meduza diamonds=10
-Monsters/Monster_noggin_meduza diamonds=10
-Monsters/Monster_theremind_meduza diamonds=10
-Monsters/Monster_maw_meduza diamonds=10
-Monsters/Monster_knucklehead_meduza diamonds=10
-Monsters/Monster_sox_meduza diamonds=10
-Monsters/Monster_pummel_meduza diamonds=10
-Monsters/Monster_pongping_meduza diamonds=10
-Monsters/Monster_whimstlop_meduza diamonds=10
-Monsters/Monster_meduza diamonds=60
+Monsters/Monster_mammott_meduza diamonds=0
+Monsters/Monster_noggin_meduza diamonds=0
+Monsters/Monster_theremind_meduza diamonds=0
+Monsters/Monster_maw_meduza diamonds=0
+Monsters/Monster_knucklehead_meduza diamonds=0
+Monsters/Monster_sox_meduza diamonds=0
+Monsters/Monster_pummel_meduza diamonds=0
+Monsters/Monster_pongping_meduza diamonds=0
+Monsters/Monster_whimstlop_meduza diamonds=0
+Monsters/Monster_meduza diamonds=0
 -
 decorations:
 Decoration/Decoration_test
@@ -410,13 +430,13 @@ Decoration/Dog
 ;
 Desert
 monsters:
-Monsters/Monster_scaratar diamonds=3500
-Monsters/Monster_flootfly diamonds=75
-Monsters/Monster_furcorn diamonds=125
-Monsters/Monster_rootitoot diamonds=150
-Monsters/Monster_trox Vortex=3
-Monsters/Monster_spurrit_desert Vortex=4
-Monsters/Monster_bisonorus Vortex=1
+Monsters/Monster_scaratar diamonds=0
+Monsters/Monster_flootfly diamonds=0
+Monsters/Monster_furcorn diamonds=0
+Monsters/Monster_rootitoot diamonds=0
+Monsters/Monster_trox Vortex=0
+Monsters/Monster_spurrit_desert Vortex=0
+Monsters/Monster_bisonorus Vortex=0
 -
 monster_rares:
 -
@@ -637,11 +657,11 @@ Decoration/Dog
 ;
 TI
 monsters:
-Monsters/Monster_quibble diamonds=400
-Monsters/Monster_oaktopus diamonds=400
-Monsters/Monster_reedling_young_singer diamonds=600
+Monsters/Monster_quibble diamonds=0
+Monsters/Monster_oaktopus diamonds=0
+Monsters/Monster_reedling_young_singer diamonds=0
 Monsters/Monster_loodvigg
-Monsters/Monster_spurrit Vortex=10
+Monsters/Monster_spurrit Vortex=0
 -
 decorations:
 Decoration/Decoration_test
@@ -689,8 +709,8 @@ Decoration/Dog
 ;
 dream
 monsters:
-Monsters/Monster_cataliszt diamonds=50
-Structures/Structure_jukebox_dream coins=3070
+Monsters/Monster_cataliszt diamonds=0
+Structures/Structure_jukebox_dream coins=0
 -
 monsters2:
 Monsters/Monster_mammott_dream
@@ -702,9 +722,9 @@ Monsters/Monster_deedge_dream
 ;
 GM
 monsters:
-Monsters/Monster_olga diamonds=1000
-Monsters/Monster_potbellyGM diamonds=1000
-Monsters/Monster_quibbleGM diamonds=2000
+Monsters/Monster_olga diamonds=0
+Monsters/Monster_potbellyGM diamonds=0
+Monsters/Monster_quibbleGM diamonds=0
 -
 decorations:
 Decoration/Decoration_test
