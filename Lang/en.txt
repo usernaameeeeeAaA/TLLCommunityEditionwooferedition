@@ -626,13 +626,21 @@ EM_path7=Overgrown Bubblerite Path
 EM_path7_bio=Over the long span of time since this path was last taken care of, the moss has grown all over, to the point where it’s hard to tell what color it ever originally was.
 
 Candy_path1=Cookie Path
+Candy_path1_bio=Placeholder
 Candy_path2=Chokkolit Path
+Candy_path2_bio=Placeholder
 Candy_path3=White Chokkolit Path
+Candy_path3_bio=Placeholder
 Candy_path4=Blue Cotton Candy
+Candy_path4_bio=Placeholder
 Candy_path5=Pink Cotton Candy
+Candy_path5_bio=Placeholder
 Candy_path6=Used Gum Path
+Candy_path6_bio=Placeholder
 Candy_path7=Cookie Crumble Path
+Candy_path7=_bio=Placeholder
 Candy_path8=Sprinkle Surprise Path
+Candy_path8_bio=Placeholder
 
 Desert_path1=Amber Path
 Desert_path2=Relic Path
