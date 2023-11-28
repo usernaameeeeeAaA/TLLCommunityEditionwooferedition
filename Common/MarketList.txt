@@ -499,9 +499,9 @@ Candy
 monsters:
 Monsters/Monster_toejammer_undof coins=0
 Monsters/Monster_noggin_undof coins=0
-Monsters/Monster_noggin_undof_rare coins=0
+Monsters/Monster_noggin_rare coins=0
 Monsters/Monster_kayna_undof coins=0
-Monsters/Monster_kayna_undof_rare coins=0
+Monsters/Monster_kayna_rare coins=0
 Monsters/Monster_gumtromp coins=0
 Monsters/Monster_gumtromp_rare coins=0
 Monsters/Monster_fwog_undof coins=0
