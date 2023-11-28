@@ -8,4 +8,4 @@ funny-edition-3;everyone;:D; If you seen this, send a screenshot of it in the MS
 
 welcome2community-edition-3;everyone;Welcome to TLL: Community Edition!;Hey there! Welcome to the TLL Community Edition, A Private Server for MSM:TLL! Have fun with the infinite currency- a gift from the MSM Extensions Team! Enjoy!;icon@new;diamonds@9999999;coins@9999999;food@9999999;foodB@9999999;Relic@9999999;Level@30;stars@9999999;
 
-patch2;everyone;Updated to 0.9!;Community Edition has been updated to 0.9! Only claim this T-Rox (for Noramba Desert) if you're on v0.9! Happy Monstering!;icon@newspaper;diamonds@25;Monsters/Monster_trox@1
+patch2;everyone;Updated to 0.9!;Community Edition has been updated to 0.9! Only claim this T-Rox (for Noramba Desert) if you're on v0.9, if you arent then download it from MSM Extensions Discord! Happy Monstering!;icon@newspaper;diamonds@25;Monsters/Monster_trox@1
