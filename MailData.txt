@@ -2,6 +2,8 @@ ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to res
 
 welcome2community-edition-3;everyone;Welcome to TLL: Community Edition!;Hey there! Welcome to the TLL Community Edition, A Private Server for MSM:TLL! Have fun with the infinite currency- a gift from the MSM Extensions Team! Enjoy!;icon@new;diamonds@9999999;coins@9999999;food@9999999;foodB@9999999;Relic@9999999;Level@30;stars@9999999;
 
+freelevels-1;everyone;Free Levels;Here if you want Max Levels.;xp@9999999;
+
 funny-edition-3;everyone;:D; If you seen this, send a screenshot of it in the MSM Extensions discord !;icon@new;diamonds@69;coins@420;
 
 thanks-1;everyone;Hmmm;Community Edition Mobile is working for some people but not for others, hopefully we can fix this!;icon@new;diamonds@9;coins@10;xp@21;
