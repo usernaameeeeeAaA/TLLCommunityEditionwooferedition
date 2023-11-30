@@ -1048,6 +1048,15 @@ Acidu
 Suitensaur
 Apelmon
 ;
+Monsters/Monster_keytrus_rare
+Sweet Slice
+Peaty
+Flah
+Swerl
+Peppiza
+Spice-2.0
+Lemo
+;
 Monsters/Monster_koodahcane
 Sweethors
 Uap Uap
