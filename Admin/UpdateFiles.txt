@@ -1,5 +1,3 @@
-sdfghjkfgdfarf
-
 desert_midi midi-d
 desert_sound audio-d Desert
 monster_trox entity-d Monsters/Monster_trox
