@@ -3,6 +3,7 @@ EM
 Candy
 Desert
 Organs
+EgyptPipes
 TI
 Calamity
 GM
