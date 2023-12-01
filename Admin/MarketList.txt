@@ -440,6 +440,7 @@ Monsters/Monster_rootitoot diamonds=0
 Monsters/Monster_trox Vortex=0
 Monsters/Monster_spurrit_desert Vortex=0
 Monsters/Monster_bisonorus Vortex=0
+Monsters/Monster_clamble Vortex=0
 -
 monster_rares:
 -
