@@ -440,6 +440,7 @@ Monsters/Monster_rootitoot diamonds=0
 Monsters/Monster_trox Vortex=0
 Monsters/Monster_spurrit_desert Vortex=0
 Monsters/Monster_bisonorus Vortex=0
+Monsters/Monster_clamble Vortex=0
 -
 monster_rares:
 -
@@ -530,6 +531,7 @@ Monsters/Monster_fleechwurm_undof coins=0
 Monsters/Monster_wubbox_undof coins=0
 Monsters/Monster_wubbox_rare_undof coins=0
 Monsters/Monster_jobo coins=0
+Monsters/Monster_treble coins=0
 -
 decorations:
 Decoration/Decoration_test
