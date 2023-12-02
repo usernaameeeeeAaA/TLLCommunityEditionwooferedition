@@ -5,6 +5,7 @@ Desert
 Organs
 TI
 EgyptPipes
+Minigame_YapLeap
 Calamity
 GM
 Knottshurr
