@@ -170,3 +170,6 @@ Monsters/Monster_plixie=Monsters/Monster_ghazt_dream 0
 Monsters/Monster_spunge_young=Monsters/VOIDCORN_dream 0
 Monsters/Monster_scaratar=Monsters/Monster_dragong_dream 0
 
+EgyptPipes 0
+Monsters/Monster_scaratar 0
+
