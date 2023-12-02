@@ -979,7 +979,7 @@ str_island_GM_bio=bio
 str_island_EgyptPipes=Archaic Dunes
 str_island_EgyptPipes_bio=The Archaic Dunes scene doesn't exist, how are you accessing this bio-
 
-str_island_Minigame_yapleap=Yap Leap
+str_island_Minigame_yapleap=Yap Leap (Minigame)
 
 str_island_dream=island_demented_dream_ERROR:
 str_island_dream_bio=what the actual fwog
