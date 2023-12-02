@@ -361,6 +361,25 @@ Monsters/Knott_special_rare_bio=Chimblickle bio
 Monsters/Monster_handmond=Handmond
 Monsters/Monster_handmond_bio=Handmond bio
 
+Monsters/Monster_mammott_dream=Demented Mammott
+Monsters/Monster_mammott_dream_bio=It's too late
+Monsters/Monster_quibble_dream=Demented Quibble
+Monsters/Monster_quibble_dream_bio=It's too late
+Monsters/Monster_deedge_dream=Demented Deedge
+Monsters/Monster_deedge_dream_bio=It's too late
+Monsters/Monster_likho_dream=Demented Yap
+Monsters/Monster_likho_dream_bio=It's too late
+Monsters/Monster_ghazt_dream=Demented Ghazt
+Monsters/Monster_ghazt_dream_bio=It's too late
+Monsters/Monster_stogg_dream=Demented Stogg
+Monsters/Monster_stogg_dream_bio=It's too late
+Monsters/Monster_toejammer_dream=Demented Toe Jammer
+Monsters/Monster_toejammer_dream_bio=It's too late
+Monsters/VOIDCORN_dream=Demented Furcorn
+Monsters/VOIDCORN_dream_bio=WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP 
+Monsters/Monster_dragong_dream=Demented Dragong
+Monsters/Monster_dragong_dream_bio=It's too late
+
 Monsters/Monster_whimstlop=Whimstlop
 Monsters/Monster_whimstlop_bio=The inner machinations of the Whimstlop are an enigma. What's seen on the outside of this passive monster is merely a suit of armor, with its "helmet" portion enlarged by the wielding of discarded armor from its youth. Its organic aspects lie beneath its metallic sheathing, with the only visible parts being a singular eye (it lost the other one) and two twig-like legs (surprisingly strong given the burden of lifting its armor). Depending on its environment, a Whimstlop can don an armor of a different material to fit its current needs. Sometimes they work as part-time leafblowers, expelling much of the dirt and grime its other monster pals bring in.
 Monsters/Monster_whimstlop_meduza=<ref>Monsters/Monster_whimstlop
@@ -1028,6 +1047,7 @@ str_class_Dipster=Dipster
 str_class_Mythical=Mythical
 str_class_Mythical-r=Mythical(rare)
 str_class_Legendary=Legendary
+str_class_Nightmare=Nightmare
 
 str_teleporter=Symphonic Zeppelin
 str_teleporter2=Zeppelin
