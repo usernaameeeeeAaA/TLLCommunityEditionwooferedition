@@ -436,11 +436,9 @@ Monsters/Monster_arackulele_bio=Arackulele bio
 
 #CELESTIALS#
 Monsters/Monster_hornacle=Hornacle
-Monsters/Monster_hornacle_bio=Hornacle bio
+Monsters/Monster_hornacle_bio=horny boy
 Monsters/Monster_loodvigg=Loodvigg
-Monsters/Monster_loodvigg_bio=Loodvigg bio
-Monsters/Loodvigg=Loodvigg
-Monsters/Loodvigg_bio=Loodvigg bio
+Monsters/Monster_loodvigg_bio=quibble copy
 Monsters/Monster_blasoom=Blasoom
 Monsters/Monster_blasoom_bio=Blasoom bio
 Monsters/Monster_torrt=Torrt
