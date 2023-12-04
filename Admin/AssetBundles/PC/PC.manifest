@@ -3,5 +3,14 @@ CRC: 1541219532
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: gm
+      Name: egyptpipes_scene
+      Dependencies: {}
+    Info_1:
+      Name: egyptpipes_entities
+      Dependencies: {}
+    Info_2:
+      Name: egyptpipes_midi
+      Dependencies: {}
+    Info_2:
+      Name: egyptpipes_audio
       Dependencies: {}
