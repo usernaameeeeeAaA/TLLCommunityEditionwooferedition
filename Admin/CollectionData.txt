@@ -183,3 +183,13 @@ Monsters/Monster_olga
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
 
+EgyptPipes:
+Monsters/Shlep
+Monsters/Loodvigg
+Monsters/Scaratar
+Monsters/Congle
+Monsters/Bonapetite
+Monsters/Gnarls
+Monsters/Buzzinga
+Monsters/Pladdie
+Monsters/Uuduk
