@@ -599,7 +599,7 @@ Monsters/Monster_gumtromp_rare_bio=A seemingly normal monster has a sweet secret
 Monsters/Monster_keytrus=Keytrus
 Monsters/Monster_keytrus_bio=Like its surprisingly-close kin, the Koodahcane, Keytrus is far-disconnected from its fellow candy monsters via its complete inedibility! In fact, Keytrus often find themselves scavenging about the surface of the Konficshonn colossal for sour sweets and delicacies! This sweet -- or, rather, sour -- tooth is only satiated by the disc-shaped fruits found growing in the colossal's beard. It then uses specialized claws at the tips of its limbs, normally covered by leaflike feathers, to slice the orange in half, revealing 4 quadrants of flesh that can be tapped to produce a wonderfully whimsical tink! These fruits, called Discus Fruits by the other monsters, are actually not sour at all, but Keytrus doesn't know that... don't ruin its fun.
 
-Monsters/Monster_keytrus_rare=Rare Keytrus
+Monsters/Monster_keytrus_rare=Rare Keytrus (Doesn't have a file yet)
 Monsters/Monster_keytrus_rare_bio=In the sugary haven of Candy Island resides Rare Keytrus. This delectable creature perches on a pepperoni pizza pad, navigating a world where its unique blend of sweetness and spiciness makes it a sought-after target for candy-crazed monsters. Despite its adorable appearance, Rare Keytrus is a master of evasion, outsmarting and outmaneuvering those who crave a taste of Rare Keytrus. Legends of its clever escapades have turned Rare Keytrus into a living symbol of resilience on Candy Island.
 
 Monsters/Monster_koodahcane=Koodahcane
@@ -622,7 +622,7 @@ Monsters/Monster_claramel_bio=The ever-shimmering Claramel is known for its cara
 Monsters/Monster_sprinklate=Sprinklate
 Monsters/Monster_sprinklate_bio=As the tasty team leader of Candy Island, almost everyone has heard of Sprinklate at some point or another. They love to lead various activities on the island, are enthusiastic members of the island's guard, and keep a watchful eye on all. Though Sprinklate loves all of their friends equally, they have a special spot in their heart for a fellow cake, who visits once a year. 
 
-Monsters/Monster_sprinklate_rare=Rare Sprinklate
+Monsters/Monster_sprinklate_rare=Rare Sprinklate (Doesn't have a file yet)
 Monsters/Monster_sprinklate_rare_bio=Unlike it's common counterpart, the Rare Sprinklate has no eyes, but has a delicious chocolate couting which will surely make up for the lack of sight!
 
 Monsters/Monster_jamboree_undof=Jam Boree
