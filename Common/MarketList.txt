@@ -736,6 +736,8 @@ Monsters/Monster_likho_dream diamonds=0
 Monsters/Monster_stogg_dream diamonds=0
 Monsters/Monster_quibble_dream diamonds=0
 Monsters/Monster_deedge_dream diamonds=0
+Monsters/Monster_dragong_dream diamonds=0
+Monsters/Monster_ghazt_dream diamonds=0
 Structures/Structure_jukebox_dream coins=0
 -
 monsters2:
