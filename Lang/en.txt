@@ -1204,7 +1204,7 @@ Monsters/Monster_quibbleGM_bio=Well... it seems that it's in a Quibble's DNA to 
 
 Monsters/Krillby=Krillby
 Monsters/Congle=Congle
-Monsters/Gnarls=Gnarly
+Monsters/Gnarls=Gnarls
 
 Monsters/Krillby_bio=Jolene will do anything to get this monster on any island, doesn't matter which game.
 Monsters/Conglebio=TheRedCongle said she'd touch me if I didn't put her here
