@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1541219533
+CRC: 4221521189
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: egyptpipes_scene
+      Name: egyptpipes_audio
       Dependencies: {}
     Info_1:
       Name: egyptpipes_entities
@@ -12,5 +12,5 @@ AssetBundleManifest:
       Name: egyptpipes_midi
       Dependencies: {}
     Info_3:
-      Name: egyptpipes_audio
+      Name: egyptpipes_scene
       Dependencies: {}
