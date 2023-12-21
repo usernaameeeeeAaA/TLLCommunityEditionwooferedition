@@ -4,6 +4,7 @@ Candy
 Desert
 Organs
 Minigame_yapleap
+EgyptPipes
 TI
 Calamity
 GM
