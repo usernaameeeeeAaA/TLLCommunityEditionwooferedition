@@ -14,3 +14,6 @@ AssetBundleManifest:
     Info_3:
       Name: egyptpipes_scene
       Dependencies: {}
+    Info_4:
+      Name: desert_midi
+      Dependencies: {}
