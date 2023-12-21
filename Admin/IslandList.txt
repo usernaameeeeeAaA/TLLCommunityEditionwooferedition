@@ -5,7 +5,7 @@ Desert
 Organs
 Minigame_yapleap
 TI
-egyptpipes_scene
+EgyptPipes
 Calamity
 GM
 Knottshurr
