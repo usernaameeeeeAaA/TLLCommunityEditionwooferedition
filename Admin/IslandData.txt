@@ -15,3 +15,4 @@ Minigame_Simon 0 Complete z
 Minigame_yapleap 0 Complete z
 Stargazer 0 Complete z
 Credits 0 Complete z
+EgyptPipes 15 Complete z
