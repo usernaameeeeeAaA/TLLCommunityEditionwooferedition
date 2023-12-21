@@ -8,4 +8,4 @@ welcome2community-edition-3;everyone;Welcome to TLL: Community Edition!;Hey ther
 
 patch2;everyone;Updated to 0.9!;Community Edition has been updated to 0.9! (Only PC for now) Only claim this T-Rox (for Noramba Desert) if you're on v0.9, if you arent then download it from MSM Extensions Discord! Happy Monstering!;icon@newspaper;diamonds@25;Monsters/Monster_trox@1
 
-patch2;everyone;SlenderSlime;If you came from SlenderSlimes server block them and leave the server, they have stolen ALL of our downloads and refuses to delete them.;icon@newspaper;
+patch2;everyone;Max;If you came from Max's server block them and leave the server, they have stolen ALL of our downloads and refuses to delete them.;icon@newspaper;
