@@ -752,6 +752,7 @@ Monsters/Monster_deedge_dream
 GM
 monsters:
 Monsters/Monster_olga diamonds=0
+Monsters/Monster_olga_rare diamonds=0
 Monsters/Monster_potbellyGM diamonds=0
 Monsters/Monster_quibbleGM diamonds=0
 -
