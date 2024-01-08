@@ -1179,7 +1179,7 @@ str_setting_credits=Credits
 
 str_credits_main=T.L.L. by:
 str_credits_extreme_help=Archaic Dunes, Rare Keytrus and tons of help
-str_credits_partner=msm.fan aka anon
+str_credits_partner=Partner and some extra help
 str_credits_creator=TLL Community Edition Creator
 
 
