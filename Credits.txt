@@ -1,9 +1,12 @@
 <Title>str_credits_main
 Raw Zebra
 
-<Title>TLL Community Edition by:
+<Title>str_credits_creator
 Riotlove
 
-<Title>Partner & Extra Help:
+<Title>str_credits_extreme_help
+Quinntendo
+
+<Title>str_credits_partner
 msm.fan aka anon
 
