@@ -1181,6 +1181,7 @@ str_credits_main=T.L.L. by:
 str_credits_extreme_help=Archaic Dunes, Rare Keytrus and tons of help
 str_credits_partner=Partner and some extra help
 str_credits_creator=TLL Community Edition Creator
+str_credits_rarekeytrus=Rare Keytrus sprite sheet
 
 
 Monsters/VOIDCORN=<color="red">V O I D C O R N</color>
