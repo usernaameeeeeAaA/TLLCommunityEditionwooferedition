@@ -624,7 +624,7 @@ Monsters/Monster_sprinklate=Sprinklate
 Monsters/Monster_sprinklate_bio=As the tasty team leader of Candy Island, almost everyone has heard of Sprinklate at some point or another. They love to lead various activities on the island, are enthusiastic members of the island's guard, and keep a watchful eye on all. Though Sprinklate loves all of their friends equally, they have a special spot in their heart for a fellow cake, who visits once a year. 
 
 Monsters/Monster_sprinklate_rare=Rare Sprinklate (Doesn't have a file yet)
-Monsters/Monster_sprinklate_rare_bio=Unlike it's common counterpart, the Rare Sprinklate has no eyes, but has a delicious chocolate couting which will surely make up for the lack of sight!
+Monsters/Monster_sprinklate_rare_bio=Meet the Rare Sprinklate, the chocolate-covered rare and the counterpart to the common version. With no eyes but a delectable chocolate coating, this rare gem is adorned with an apple tail and topped with a sweet strawberry, which has made them the talk of Candy Island. 
 
 Monsters/Monster_jamboree_undof=Jam Boree
 Monsters/Monster_jamboree_undof_bio=To say that the Seasonal Shanty is Jam-packed with goodwill and jubilation would be accurate, and that's largely thanks to the presence of the Jam Boree! For many years, the self-styled leader of the Shanty has taken it upon itself to try to organize the Seasonal trappings that festoon every corner of the floating hideaway. It's a very patient Monster, who looks forward every year to Anniversary Month when it throws a huge party for the migratory Seasonals coming home to roost! Jam Boree appreciates when Treats other than Cake are served at such shindigs.
