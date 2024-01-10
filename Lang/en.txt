@@ -40,7 +40,7 @@ Monsters/Monster_quibble_young=Young Quibble
 Monsters/Monster_quibble_young_bio=The endless enthusiasm of a Quibble hatchling is one unmatched by any other monster species. Collecting all sorts of colorful pebbles to make up its training keys, their creativity is bolstered by their endless asking of questions! Of course, the celestials are always glad to assist in answering all sorts of questions, though they still can't seem to discover the answer of where baby monsters come from...
 <Monsters/Monster_quibble_rare>
 Monsters/Monster_phangler_young=Young Phangler
-Monsters/Monster_phangler_young_bio=Young Phangler bio
+Monsters/Monster_phangler_young_bio=Meet the young Phangler! As they grow, Phanglers develop microphones that enhance hearing for other monsters.
 Monsters/Monster_stogg_young=Young Stogg
 Monsters/Monster_stogg_young_bio=The astonishing arpeggios of the fledgling Stoggling have been a signature staple of the City's ambiance for as long as anyone can remember. And a bit further than that. Shockingly, young stoggs love to be buried in snow!
 Monsters/Monster_knucklehead_young=Young Knucklehead
@@ -50,7 +50,7 @@ Monsters/Monster_osstax_young_bio=It’s well-known that Osstax begins their liv
 
 #BABY TRIPLES#
 Monsters/Monster_spunge_young=Young Spunge
-Monsters/Monster_spunge_young_bio=PFFFFFFFNFHFGNFJBGBF. That's what a young Spunge sounds like. I'm not joking. Its adorable bro. :)
+Monsters/Monster_spunge_young_bio=The young spunge is a very adorable monster, having tons of friends to play with all day, everyday. Their cheeks have evolved to be very resistant to the awesome songs they play!
 Monsters/Monster_reedling_young=Young Reedling
 Monsters/Monster_reedling_young_bio=What is a flute but something fun to toot, young Reedlings always say. Or at least thats what its assumed they are trying to communicate, as gusty wheezes and adorable drooling arent quite in our database of translatable languages yet. Nevertheless, the canine cutie happily joins in on any activities the other youngsters have. 
 Monsters/Monster_rootitoot_young=Young Rootitoot
@@ -58,7 +58,7 @@ Monsters/Monster_rootitoot_young_bio=The calm air that young Rootitoots provide 
 Monsters/Monster_bridgit_young=Young Bridg-it
 Monsters/Monster_bridgit_young_bio=Young Bridg'its love bows, tiaras and anything that makes them look adorable, their hair is always well decorated and combed, however, they have such tiny arms, they can't do all this work by themselves! Luckily there is always a motherly Scaratar nearby who is willing to help them with their tangly issues.
 Monsters/Monster_frondley_young=Young Frondley
-Monsters/Monster_frondley_young_bio=Young Frondley bio
+Monsters/Monster_frondley_young_bio="Hmmmmmmmmmmmmmmmmmmmmmm!" Young frondleys may sound like they are thinking, but you are wrong! 
 Monsters/Monster_trox_young=Young T-Rox
 Monsters/Monster_trox_young_bio=Young T-Rox bio
 
@@ -105,6 +105,7 @@ Monsters/Monster_maw=Maw
 Monsters/Monster_maw_bio=Maw bio
 Monsters/Monster_quibble=Quibble
 Monsters/Monster_quibble_bio=The Quibble may seem like a graceful monster on the outside, but that's just a facade. The two heads constantly bicker, usually having polar opinions about the latest trends, or some other trivial issue. One time, the left Quibble wanted to order fries, but the right Quibble was eager to get a milkshake... chaos ensued. But in the end, they always make up with each other, like true siblings. Oh yeah, they ended up ordering fries dunked in a milkshake. A... unique consensus
+Monsters/Monsters_quibble_rare_bio=We Don't Know How, But It Just Doesn't Want To Grow Up! They Usually Keep Their Baby Pebbles And Baby Beaks, And They Use Daggers For Hitting Them.
 Monsters/Monster_boskus=Boskus
 Monsters/Monster_boskus_bio=Boskus bio
 Monsters/Monster_phangler=Phangler
@@ -166,7 +167,7 @@ Monsters/Monster_cataliszt=Cataliszt
 Monsters/Monster_cataliszt_bio=Cataliszt bio
 
 Monsters/Monster_jobo=Jodel
-Monsters/Monster_jobo_bio=Jodel bio
+Monsters/Monster_jobo_bio=The Werdo Jodel possesses extensive knowledge about Candy Island's colossal wonders, understanding not only how it was made but also the unique preferences of every single monster. Jodel even anticipated the precise arrival of the Jam Boree. This candy connoisseur enhances the enchantment of Candy Island, providing insights into the likes and dislikes of each monster. Explore this sugar-coated paradise with Jodel as your guide through the delightful symphony of the Monster World knowledge.
 
 Monsters/Monster_treble=Ethenor
 Monsters/Monster_treble_bio=Ethenor bio
