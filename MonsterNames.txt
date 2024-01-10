@@ -1078,6 +1078,17 @@ Blanko
 Burnessa
 Beddermelt
 ;
+Monsters/Monster_marshflamo_rare
+Burnt
+Marsh
+Ow-ven
+Sooky
+Stiiky
+Mellti
+Loszeir
+S'more
+Captain
+;
 Monsters/Monster_brasscuit
 Chocobrass
 Biskoitto
