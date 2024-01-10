@@ -202,7 +202,7 @@ Monsters/Monster_knurv_rock=Knurv Rock
 Monsters/Monster_knurv_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten.
 
 Monsters/Monster_reebro=Reebro
-Monsters/Monster_reebro_bio=Reebro bio
+Monsters/Monster_reebro_bio=skibid toilet
 
 Monsters/Monster_wubbox_undof=Wubbox
 Monsters/Monster_wubbox_undof_bio=One day as the monsters were tunneling underground, they stumbled upon an immense underground vault containing several of the mysterious objects known as the Wubbox. Very little is known of their origin or purpose, save a few observations:\n\nSample analysis of the box's exterior indicates that it shares traits with every known monster species - in fact, it even has specialized compartments with an otherworldy shrinking technology. The box is also imbued with an elemental energy unfamiliar to those on the surface - a shocking discovery, to say the least.\n\nGather some intrepid monster volunteers and see what happens when you 'box' them!
