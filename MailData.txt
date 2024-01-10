@@ -1,6 +1,6 @@
 ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data if something has went wrong!;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
-freelevels-ex;everyone;Free Levels;Here if you want Max Levels.;icon@new;xp@9999999;
+jukebox;everyone;Jukebox;We have noticed a large number of people saying that the game says they have a jukebox but they do not have one, so here is a jukebox.;icon@new;Structures/Structure_jukebox;
 
 welcome2community-edition-4;everyone;Welcome to TLL: Community Edition!;Hey there! Welcome to the TLL Community Edition, A Private Server for MSM:TLL! If you got this private server from somewhere else than MSM Extensions leave and report that Discord Server if you got it from a discord server, and join the MSM Extensions server https://discord.gg/dbUcuv63h3 . Have fun with the infinite currency- a gift from the MSM Extensions Team! Enjoy!;icon@new;diamonds@9999999;coins@9999999;food@9999999;foodB@9999999;Relic@9999999;Level@30;stars@9999999;
 
