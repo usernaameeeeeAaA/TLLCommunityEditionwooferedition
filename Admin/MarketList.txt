@@ -514,6 +514,7 @@ Monsters/Monster_gobstomper coins=0
 Monsters/Monster_thrumble_undof coins=0
 Monsters/Monster_keytrus coins=0
 Monsters/Monster_keytrus_rare coins=0
+Monsters/Monster_test coins=0
 Monsters/Monster_claramel coins=0
 Monsters/Monster_brasscuit coins=0
 Monsters/Monster_sprinklate coins=0
