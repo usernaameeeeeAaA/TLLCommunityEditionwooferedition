@@ -1,2 +1,1 @@
 monster_keytrus_rare entity Monsters/Monster_keytrus_rare
-monster_test entity Monsters/Monster_test
