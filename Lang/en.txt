@@ -349,8 +349,8 @@ Monsters/Knott_9_rare=Rare Babushka Knittshurr
 Monsters/Knott_9_rare_bio=Meet the friendliest creature in the Lost world. The elderly Babushka Knittshurr is a motherly creature that acts as a nurturer to any monster kind there is. It uses its knitting skills to keep their adopted grandchildren in warmth and welfare and usually never leaves their sight. Most of the representatives of the species are several millenia old, and seem to never visually change after hitting a milestone of 80 years.\nDespite all of that, there are specimens that had a tragic past and never recovered since. Those exemplars tend to be more aggressive towards everyone around.
 Monsters/Knott_10_rare=Rare Bel'yawn Zirro
 Monsters/Knott_10_rare_bio=Rare Bel'yawn Zirro bio
-Monsters/Knott_special_rare=Chimblickle
-Monsters/Knott_special_rare_bio=Chimblickle bio
+Monsters/Knott_special_rare=Rare Chimblickle
+Monsters/Knott_special_rare_bio=Are ya ready kids? I hope so, rare chimbickle will make you wake up instantly! Monsters on knottshurr island say that they hear noises coming inside the body of rare chimbickle, like there is something inside of it... That would explain the horns coming from it.
 
 
 
