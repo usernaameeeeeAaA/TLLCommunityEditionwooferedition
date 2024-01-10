@@ -509,6 +509,7 @@ Monsters/Monster_fwog_undof coins=0
 Monsters/Monster_stogg_undof coins=0
 Monsters/Monster_phangler_undof coins=0
 Monsters/Monster_marshflamo coins=0
+Monsters/Monster_marshflamo_rare coins=0
 Monsters/Monster_koodahcane coins=0
 Monsters/Monster_gobstomper coins=0
 Monsters/Monster_thrumble_undof coins=0
