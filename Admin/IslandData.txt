@@ -1,7 +1,6 @@
 City 0 Complete z
 EM 0 Complete z
 Candy 4 Complete z
-SweetIsle 4 Complete NoZeppelin
 Knottshurr 10 Complete NoZeppelin
 Organs 12 Complete z
 Desert 10 Complete z
