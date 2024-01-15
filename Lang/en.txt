@@ -1201,8 +1201,8 @@ Monsters/Monster_potbellyGM_bio=After the strange events that led to the ruins o
 Monsters/Monster_quibbleGM=Jastanaw
 Monsters/Monster_quibbleGM_bio=Well... it seems that it's in a Quibble's DNA to denature into a strange creature whenever it's modified. Alike to monsters long since extinct such as the Epic and Prismatic Quibbles, it seems something in this monsters elemental core caused it to turn into... this. Worry not, because it doesn't seem like too painful of a condition, and it still loves to sing- or is that a scream? It's not a scream. We think. 
 
-Monsters/Monster_quibbleGM_rare=Rare Jastanaw
-Monsters/Monster_quibbleGM_rare_bio=Once apon a time, in a land far in time, a Jastanaw was peacefully enjoying their stay at Gamma Water Island, but suddenly, and without warning, AH! A Paint Bucket landed on Jastanaw, causing it to change colors and dent one of their horns. They seemed confused but a ‎Kelpebbul came and got the nasty bucket off of Jastanaw.
+Monsters/Monster_quibblegm_rare=Rare Jastanaw
+Monsters/Monster_quibblegm_rare_bio=Once apon a time, in a land far in time, a Jastanaw was peacefully enjoying their stay at Gamma Water Island, but suddenly, and without warning, AH! A Paint Bucket landed on Jastanaw, causing it to change colors and dent one of their horns. They seemed confused but a ‎Kelpebbul came and got the nasty bucket off of Jastanaw.
 
 Monsters/Krillby=Krillby
 Monsters/Congle=Congle
