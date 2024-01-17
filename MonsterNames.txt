@@ -1736,6 +1736,11 @@ Firbowl
 ;
 Monsters/Knott_special_rare
 Glubber
+Bob
+Spunge
+songebob suarpats
+Horni
+KnotSpecial
 ;
 Monsters/Knott_1_rare
 Hollowk
@@ -1870,7 +1875,13 @@ Priszum
 Kazak
 Stan
 ;
-Monsters/Monster_skibidiToilet
+Monsters/Monster_quibblegm_rare
+Purrrrr
+Plea
+FadomFada
+Broek
+;
+Monsters/whatthehell
 Ohio-ussy
 Rizzler
 Tanum Fax
