@@ -104,6 +104,7 @@ Monsters/Monster_jamboree 99
 Monsters/Monster_sprinklate 99
 Monsters/Monster_jobo 99 
 Monsters/Monster_marshflamo_rare 99
+Monsters/Monster_sprinklate_rare 99
 
 Monsters/Monster_gumtromp_rare=Monsters/Monster_brasscuit+Monsters/Monster_claramel 99
 Monsters/Monster_gumtromp_rare=Monsters/Monster_keytrus+Monsters/Monster_claramel 99
