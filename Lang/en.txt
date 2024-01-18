@@ -1189,6 +1189,7 @@ str_credits_rarekeytrus=Rare Keytrus sprite sheet
 str_credits_raresprinkl=Rare Sprinklate Spritesheet
 str_credits_raremarsh=Rare Marshflamo Spritesheet
 str_credits_rarechimb=Rare Chimbickle Spritesheet + Bio
+str_credits_rarefadom=Rare Jastanaw Spritesheet
 
 Monsters/VOIDCORN=<color="red">V O I D C O R N</color>
 str_class_YOOL=<YOURMISSINGYOOL>
