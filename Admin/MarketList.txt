@@ -238,6 +238,7 @@ Monsters/Knott_8 diamonds=0
 Monsters/Knott_9 diamonds=0
 Monsters/Knott_10 diamonds=0
 Monsters/Knott_special diamonds=0
+Monsters/Knott_special_rare diamonds=0
 -
 decorations:
 Decoration/Decoration_test
