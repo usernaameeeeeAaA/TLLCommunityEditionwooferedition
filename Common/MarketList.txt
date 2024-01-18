@@ -498,6 +498,7 @@ Decoration/Dog
 ;
 Candy
 monsters:
+Monsters/whatthehell diamonds=999999999999999999
 Monsters/Monster_toejammer_undof coins=0
 Monsters/Monster_noggin_undof coins=0
 Monsters/Monster_noggin_rare_undof coins=0
