@@ -151,7 +151,9 @@ Monsters/Monster_thrumble_undof
 Monsters/Monster_keytrus
 Monsters/Monster_keytrus_rare
 Monsters/Monster_claramel
+Monsters/Monster_claramel_rare
 Monsters/Monster_brasscuit
+Monsters/Monster_brasscuit_rare
 Monsters/Monster_sprinklate
 Monsters/Monster_sprinklate_rare
 Monsters/Monster_jamboree_undof
@@ -190,5 +192,3 @@ Monsters/Monster_olga_rare
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
 Monsters/Monster_quibblegm_rare
-
-
