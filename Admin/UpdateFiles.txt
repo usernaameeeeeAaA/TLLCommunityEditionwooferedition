@@ -3,4 +3,3 @@ monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 what_the_hell entity Monsters/whatthehell
 knott_special_rare entity Monsters/Knott_special_rare
-monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
