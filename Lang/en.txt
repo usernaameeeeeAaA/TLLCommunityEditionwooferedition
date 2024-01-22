@@ -1079,6 +1079,8 @@ btn_mailbox=Mailbox
 str_taptocollectrewards=Tap them to collect
 str_mailbox_reward_collected=Collected
 
+btn_voidcorn=skibi
+
 str_setting=Settings
 str_setting_zoomBTN=Use zoom slider
 str_setting_notifN=Send notifications
