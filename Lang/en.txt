@@ -1190,11 +1190,12 @@ str_credits_main=T.L.L. by:
 str_credits_extreme_help=Archaic Dunes, new rares and tons of help
 str_credits_partner=Partner and some extra help
 str_credits_creator=TLL Community Edition Creator
-str_credits_rarekeytrus=Rare Keytrus sprite sheet
-str_credits_raresprinkl=Rare Sprinklate Spritesheet
+str_credits_rarekeytrus=Rare Keytrus and Koodahcane sprite sheet
+str_credits_raresprinkl=Rare Sprinklate and Brasscuit Spritesheet
 str_credits_raremarsh=Rare Marshflamo Spritesheet
 str_credits_rarechimb=Rare Chimbickle Spritesheet + Bio
 str_credits_rarefadom=Rare Jastanaw Spritesheet
+str_credits_rareclar=Rare Claramel Spritesheet
 
 Monsters/VOIDCORN=<color="red">V O I D C O R N</color>
 str_class_YOOL=<YOURMISSINGYOOL>
