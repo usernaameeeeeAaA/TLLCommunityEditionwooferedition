@@ -1,7 +1,6 @@
 City
 EM
 Candy
-Desert
 EgyptPipes
 Organs
 Minigame_yapleap
