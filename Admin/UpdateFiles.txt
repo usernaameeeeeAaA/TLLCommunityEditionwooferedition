@@ -5,4 +5,6 @@ what_the_hell entity Monsters/whatthehell
 knott_special_rare entity Monsters/Knott_special_rare
 monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
 
+monster_PummelGM entity Monsters/Monster_PummelGM
+
 gm_midi midi
