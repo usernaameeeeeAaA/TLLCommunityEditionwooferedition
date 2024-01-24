@@ -187,6 +187,7 @@ Monsters/Monster_olga
 Monsters/Monster_olga_rare
 Monsters/Monster_potbellyGM
 Monsters/Monster_quibbleGM
+Monsters/Monster_PummelGM
 Monsters/Monster_quibblegm_rare
 ;
 EgyptPipes:
