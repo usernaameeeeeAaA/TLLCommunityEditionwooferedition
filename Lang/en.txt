@@ -1198,6 +1198,8 @@ str_credits_rarechimb=Rare Chimbickle Spritesheet + Bio
 str_credits_rarefadom=Rare Jastanaw Spritesheet
 str_credits_rareclar=Rare Claramel Spritesheet
 
+str_riotcredit=Credit to riotlove for TLL Community Edition!
+
 Monsters/VOIDCORN=<color="red">V O I D C O R N</color>
 str_class_YOOL=<YOURMISSINGYOOL>
 
