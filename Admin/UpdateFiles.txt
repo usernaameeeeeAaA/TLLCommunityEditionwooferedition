@@ -16,9 +16,4 @@ monster_claramel_lost entity Monsters/Monster_claramel_lost
 
 monster_PummelGM entity Monsters/Monster_PummelGM
 
-monster_rozele entity Monsters/Monster_rozele
-monster_handmond_rare entity Monsters/Monster_handmond_rare
-
-
-
 gm_midi midi
