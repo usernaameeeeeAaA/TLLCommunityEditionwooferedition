@@ -146,7 +146,9 @@ Monsters/Monster_phangler_undof
 Monsters/Monster_marshflamo
 Monsters/Monster_marshflamo_rare
 Monsters/Monster_koodahcane
+Monsters/Monster_koodahcane_rare
 Monsters/Monster_gobstomper
+Monsters/Monster_gobstomper_rare
 Monsters/Monster_thrumble_undof
 Monsters/Monster_keytrus
 Monsters/Monster_keytrus_rare
@@ -172,6 +174,7 @@ Monsters/Monster_wubbox_rare_undof
 Monsters/Monster_jobo
 Monsters/Monster_treble
 Monsters/whatthehell
+Monsters/whatthehell2
 ;
 Calamity:
 Monsters/Monster_stogg_undof
