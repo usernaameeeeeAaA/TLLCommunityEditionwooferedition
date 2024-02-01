@@ -8,6 +8,8 @@ monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
 monster_sprinklate_rare entity Monsters/Monster_sprinklate_rare
 monster_claramel_lost entity Monsters/Monster_claramel_lost
 
+monster_treble entity Monsters/Monster_treble
+
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 knott_special_rare entity Monsters/Knott_special_rare
