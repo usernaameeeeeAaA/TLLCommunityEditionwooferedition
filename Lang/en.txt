@@ -220,7 +220,11 @@ Monsters/Monster_maulch_bio=What's this? One of those old statues from within th
 Monsters/Monster_maulch_awake=<ref>Monsters/Monster_maulch
 Monsters/Monster_maulch_awake_bio=Maulch, the Monotone Mumbler, is perhaps not who you'd expect out here, but whaddaya know! Maulch's Large Lulaguleaf requires much watering, and nowhere has better rain than here it says. Of course, nobody else has even seen it rain but thats irrelevant...
 
+Monsters/Monster_claramel_rare=Rare Claramel
+Monsters/Monster_claramel_rare_bio=You may think the rare claramel is just normal claramel but with a blue and green substance on them, but, you would be WRONG! This creature is actually not a claramel at all! When a Rare Oaktopus had a failed experiment with a Clangthru, tons of goopy fluids were sent flying to Candy Island and landed on the same pipes common claramel had used for it's instrument, seeking an opportunity to be known on the new place, it had copied the same songs claramel does.
 
+Monsters/Monster_claramel_lost=Lost Claramel
+Monsters/Monster_claramel_lost_bio=idk
 
 Monsters/Monster_pixolotl=Pixolotl
 Monsters/Monster_pixolotl_bio=Pixolotl bio
