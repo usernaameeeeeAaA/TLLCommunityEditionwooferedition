@@ -10,17 +10,23 @@ Quinntendo
 <Title>str_credits_raremarsh
 Mosstro S. Tamashi
 
+<Title>str_credits_raresprinkl
+Elotot
+
 <Title>str_credits_rarechimb
 Mishelle
+
+<Title>str_credits_rareclare
+BluePikmin
 
 <Title>str_credits_rarefadom
 Foolhardybonnie
 
-<Title>str_credits_raresprinkl
-Elotot
-
 <Title>str_credits_rarekeytrus
 Sneezer
+
+<Title>str_credits_translation
+ErickWub
 
 <Title>str_credits_partner
 msm.fan aka anon
