@@ -25,6 +25,9 @@ Foolhardybonnie
 <Title>str_credits_rarekeytrus
 Sneezer
 
+<Title>str_credits_translation
+ErickWub
+
 <Title>str_credits_partner
 msm.fan aka anon
 
