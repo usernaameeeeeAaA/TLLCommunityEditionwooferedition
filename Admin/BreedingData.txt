@@ -102,9 +102,9 @@ Monsters/Monster_treble 99
 Monsters/Monster_ghazt 99
 Monsters/Monster_jamboree 99
 Monsters/Monster_sprinklate 99
-Monsters/Monster_sprinklate_rare 99
-Monsters/Monster_jobo 99  
+Monsters/Monster_jobo 99 
 Monsters/Monster_marshflamo_rare 99
+Monsters/Monster_sprinklate_rare 99
 
 Monsters/Monster_gumtromp_rare=Monsters/Monster_brasscuit+Monsters/Monster_claramel 99
 Monsters/Monster_gumtromp_rare=Monsters/Monster_keytrus+Monsters/Monster_claramel 99
@@ -127,4 +127,5 @@ Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_brassc
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_keytrus 99
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_thrumble_undof 99
 
-Monsters/whatthehell=Monsters/Monster_marshflamo_rare+Monsters/Monster_jobo 3
+Monsters/whatthehell=Monsters/Monster_marshflamo+Monsters/Monster_gumtromp 1
+Monsters/whatthehell2=Monsters/Monster_marshflamo+Monsters/Monster_sprinklate 2
