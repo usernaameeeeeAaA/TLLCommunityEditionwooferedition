@@ -126,3 +126,6 @@ Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_claram
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_brasscuit 99
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_keytrus 99
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_thrumble_undof 99
+
+Monsters/whatthehell=Monsters/Monster_marshflamo+Monsters/Monster_gumtromp 1
+Monsters/whatthehell2=Monsters/Monster_marshflamo+Monsters/Monster_sprinklate 2
