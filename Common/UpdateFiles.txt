@@ -8,5 +8,3 @@ monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 knott_special_rare entity Monsters/Knott_special_rare
-
-whatthehell2 entity Monsters/whatthehell2
