@@ -171,6 +171,7 @@ Monsters/Monster_jobo
 Monsters/Monster_treble
 Monsters/whatthehell
 Monsters/whatthehell2
+Monsters/Monster_riotlove_undof
 ;
 Calamity:
 Monsters/Monster_stogg_undof
