@@ -13,4 +13,4 @@ monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 knott_special_rare entity Monsters/Knott_special_rare
 
-monsters/Monster_erickwub entity Monsters/Monster_erickwub
+monster_erickwub entity Monsters/Monster_erickwub
