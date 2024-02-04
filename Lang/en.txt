@@ -1280,10 +1280,13 @@ Monsters/Monster_PummelGM=Wabdabuana
 Monsters/Monster_PummelGM_bio=Wabdabuana Bio
 
 Monsters/Monster_erickwub=Erickwub
-Monsters/Monster_erickwub_bio=e
+Monsters/Monster_erickwub_bio=real
 
 Monsters/Monster_erickwub_undof=Erickwub
-Monsters/Monster_erickwub_undof_bio=e 2
+Monsters/Monster_erickwub_undof_bio=real 2
+
+Monsters/Monster_riotlove_undof=RiotLove
+Monsters/Monster_erickwub_undof_bio=This creature has been sent from a mysterious portal! This monster, like all Youtuber Monsters, can only be bred with a special combination.
 
 Monsters/Monster_floodbudd_undof=Floodbudd
 Monsters/Monster_floodbudd_undof_bio=This monster has been sent from a portal from the future! This monster, like all Redesigned Monsters, can only be bred with a special combination.
