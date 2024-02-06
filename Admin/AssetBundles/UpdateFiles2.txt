@@ -1,0 +1,16 @@
+monster_keytrus_rare entity Monsters/Monster_keytrus_rare
+monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
+what_the_hell entity Monsters/whatthehell
+whatthehell2 entity Monsters/whatthehell2
+monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
+monster_koodahcane_rare entity Monsters/Monster_koodahcane_rare
+monster_claramel_rare entity Monsters/Monster_claramel_rare
+monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
+monster_sprinklate_rare entity Monsters/Monster_sprinklate_rare
+monster_claramel_lost entity Monsters/Monster_claramel_lost
+
+monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
+
+knott_special_rare entity Monsters/Knott_special_rare
+
+monster_erickwub entity Monsters/Monster_erickwub
