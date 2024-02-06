@@ -11,4 +11,4 @@ monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 knott_special_rare entity Monsters/Knott_special_rare
 
-candy_midi midi
+monster_gobrare entity Monsters/gobtestrarec
