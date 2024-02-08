@@ -224,6 +224,7 @@ Monsters/Monster_claramel_rare diamonds=300 candy@water-o@fire-o 57600 5 coins=1
 Monsters/Monster_sprinklate diamonds=600 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate,sprinklate 0 0
 Monsters/Monster_sprinklate_rare diamonds=1200 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate,sprinklate 0 0
 Monsters/Monster_jamboree_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal jamboree-o,jamboree-o 0 0
+Monsters/Monster_jamboree_undof_rare diamonds=500 anniversay-r 145440 35 coins=1@120@coins=60 Seasonal jamboree_rare-o,jamboree_rare-o 0 0
 Monsters/Monster_ghazt_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal ghazt-o,ghazt-o 0 0
 
 Monsters/Monster_jobo Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Legendary jobo,jobo 0 0
