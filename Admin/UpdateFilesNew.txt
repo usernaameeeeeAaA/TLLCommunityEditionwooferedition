@@ -1,3 +1,5 @@
+cakeballs
+
 monster_keytrus_rare entity Monsters/Monster_keytrus_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 what_the_hell entity Monsters/whatthehell
@@ -9,6 +11,7 @@ monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
 monster_sprinklate_rare entity Monsters/Monster_sprinklate_rare
 monster_thrumble_rare_undof entity Monsters/Monster_thrumble_rare_undof
 monster_phangler_rare_undof entity Monsters/Monster_phangler_rare_undof
+monster_jamboree_rare_undof entity Monsters/Monster_jamboree_rare_undof
 
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
