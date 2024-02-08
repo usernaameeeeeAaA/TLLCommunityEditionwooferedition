@@ -1,4 +1,4 @@
-monster_keytrus_rare entity Monsters/Monster_keytrus_rare
+monster_keytrus_rare_new entity Monsters/Monster_keytrus_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 what_the_hell entity Monsters/whatthehell
 whatthehell2 entity Monsters/whatthehell2
