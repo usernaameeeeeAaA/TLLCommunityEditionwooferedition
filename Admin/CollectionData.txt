@@ -139,6 +139,7 @@ Monsters/Monster_gumtromp_rare
 Monsters/Monster_fwog_undof
 Monsters/Monster_stogg_undof
 Monsters/Monster_phangler_undof
+Monsters/Monster_phangler_rare_undof
 Monsters/Monster_marshflamo
 Monsters/Monster_marshflamo_rare
 Monsters/Monster_koodahcane
@@ -146,6 +147,7 @@ Monsters/Monster_koodahcane_rare
 Monsters/Monster_gobstomper
 Monsters/Monster_gobstomper_rare
 Monsters/Monster_thrumble_undof
+Monsters/Monster_thrumble_rare_undof
 Monsters/Monster_keytrus
 Monsters/Monster_keytrus_rare
 Monsters/Monster_claramel
@@ -155,7 +157,9 @@ Monsters/Monster_brasscuit_rare
 Monsters/Monster_sprinklate
 Monsters/Monster_sprinklate_rare
 Monsters/Monster_jamboree_undof
+Monsters/Monster_jamboree_rare_undof
 Monsters/Monster_ghazt_undof
+Monsters/Monster_ghazt_rare_undof
 Monsters/Monster_dipster_1
 Monsters/Monster_dipster_2
 Monsters/Monster_dipster_3
@@ -171,7 +175,6 @@ Monsters/Monster_jobo
 Monsters/Monster_treble
 Monsters/whatthehell
 Monsters/whatthehell2
-Monsters/Monster_riotlove_undof
 ;
 Calamity:
 Monsters/Monster_stogg_undof
