@@ -18,4 +18,4 @@ monster_handmond_rare entity Monsters/Monster_handmond_rare
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 knott_special_rare entity Monsters/Knott_special_rare
-ohio scene Ohio
+ohio scene MainGame
