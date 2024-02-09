@@ -1,4 +1,4 @@
-gyatt
+BIGGYATT
 
 monster_keytrus_rare_new entity Monsters/Monster_keytrus_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
@@ -19,4 +19,4 @@ monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 knott_special_rare entity Monsters/Knott_special_rare
 
-ohio_scene scene MainGame
+maingame scene MainGame
