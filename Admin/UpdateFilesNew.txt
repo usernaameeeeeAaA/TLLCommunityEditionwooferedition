@@ -13,9 +13,7 @@ monster_thrumble_rare_undof entity Monsters/Monster_thrumble_rare_undof
 monster_phangler_rare_undof entity Monsters/Monster_phangler_rare_undof
 monster_jamboree_rare_undof entity Monsters/Monster_jamboree_rare_undof
 
-monster_bone entity Monsters/Monster_bone_candy
-
-monster_handmond_rare entity Monsters/Monster_handmond_rare
+monster_bone_candy Monsters/Monster_bone_candy
 
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
