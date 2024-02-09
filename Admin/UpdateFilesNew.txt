@@ -1,4 +1,4 @@
-cakeballs
+gyat
 
 monster_keytrus_rare_new entity Monsters/Monster_keytrus_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
@@ -12,6 +12,8 @@ monster_sprinklate_rare entity Monsters/Monster_sprinklate_rare
 monster_thrumble_rare_undof entity Monsters/Monster_thrumble_rare_undof
 monster_phangler_rare_undof entity Monsters/Monster_phangler_rare_undof
 monster_jamboree_rare_undof entity Monsters/Monster_jamboree_rare_undof
+
+monster_handmond_rare entity Monsters/Monster_handmond_rare
 
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
