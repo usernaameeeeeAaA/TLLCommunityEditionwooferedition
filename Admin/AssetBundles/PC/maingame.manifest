@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3605946239
+CRC: 175689791
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7149ccb397a1f3eec4aa5cdb3f2fe3d0
+    Hash: 0f2a5fa441c6f6d4e388775de3b15429
   TypeTreeHash:
     serializedVersion: 2
-    Hash: facf4e58d104ee570de84e5f772544ee
+    Hash: 8dcd250174205bd564cd71e44f9b6813
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,17 +15,58 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 20
   Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 81
   Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
 - Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6ee1eb07257671c681ffb65ed5635a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89043cf30dd24f67826356ada5048f43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 852a1e97bf0490ea453e5b17a553a524, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e4167487a6bab58d4c9f0c818bba195, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b25b23a957cd5c8469b667e14434fde, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 612072ea5cd20bc49b0f3d8c8b538ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b15cdfbb15089e87868c39e7284c9c96, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0000000deadbeef15deadf00d0000000, type: 2}
+- Class: 115
   Script: {instanceID: 0}
 - Class: 157
   Script: {instanceID: 0}
 - Class: 196
   Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 156049354
+  Script: {instanceID: 0}
+- Class: 483693784
+  Script: {instanceID: 0}
+- Class: 1839735485
+  Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/OhioIsland/Assets/Scenes/Island/Desert.unity
 - Assets/Scenes/MainGame.unity
 Dependencies: []
