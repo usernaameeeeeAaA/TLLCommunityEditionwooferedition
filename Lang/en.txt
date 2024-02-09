@@ -1014,8 +1014,8 @@ str_island_Minigame_YapLeap=Yap Leap (Minigame)
 str_island_dream=island_demented_dream_ERROR:
 str_island_dream_bio=what the actual fwog
 
-str_island_ohio=Ohio Island
-str_island_ohio_bio=Sticking out your Yap for the Handmond
+str_island_Ohio=Ohio Island
+str_island_Ohio_bio=Sticking out your Yap for the Handmond
 
 str_island_lvl=Lvl <lvl>
 
