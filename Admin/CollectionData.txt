@@ -207,3 +207,7 @@ Monsters/Gnarls
 Monsters/Buzzinga
 Monsters/Pladdie
 Monsters/Uuduk
+;
+MainGame:
+Monsters/Monster_bluecorn
+Monsters/Monster_likho
