@@ -132,6 +132,7 @@ Monsters/Monster_galvana diamonds=7500 celestial 19 10000000 coins=4000@43200@co
 Monsters/Monster_plixie diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial plixie,plixie 8 0
 Monsters/Monster_light diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s light,light 8 0
 Monsters/Monster_bone diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s bone,bone 8 0
+Monsters/Monster_bone_candy diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s bone,bone 8 0
 Monsters/Monster_psychic diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s psychic,psychic 8 0
 Monsters/Monster_faerie diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s faerie,faerie 8 0
 
