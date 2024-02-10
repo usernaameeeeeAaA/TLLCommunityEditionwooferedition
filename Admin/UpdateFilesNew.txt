@@ -19,4 +19,4 @@ monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 knott_special_rare entity Monsters/Knott_special_rare
 
-maingame scene MainGame
+ti_scene (1) scene MainGame
