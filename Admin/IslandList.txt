@@ -3,7 +3,7 @@ EM
 Candy
 Desert
 EgyptPipes
-MainGame
+egyptpipes_scene
 Organs
 Minigame_yapleap
 TI
