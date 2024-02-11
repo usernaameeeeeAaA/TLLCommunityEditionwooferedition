@@ -1,4 +1,4 @@
-gyatt
+gyattPipes
 
 monster_keytrus_rare_new entity Monsters/Monster_keytrus_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
@@ -17,3 +17,5 @@ monster_bone_candy entity Monsters/Monster_bone_candy
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 knott_special_rare entity Monsters/Knott_special_rare
+
+egyptpipes_scene scene EgyptPipes
