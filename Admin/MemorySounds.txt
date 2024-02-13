@@ -2,6 +2,7 @@
 Default Sounds/Memmory/Default
 
 Monsters/Monster_toejammer_rare Sounds/Memmory/Monster_toejammer
+Monsters/Monster_toejammer_undof Sounds/Memmory/Monster_toejammer
 Monsters/Monster_potbelly_rare Sounds/Memmory/Monster_potbelly
 Monsters/Monster_tweedle_rare Sounds/Memmory/Monster_tweedle
 Monsters/Monster_flootfly_rare Sounds/Memmory/Monster_flootfly
