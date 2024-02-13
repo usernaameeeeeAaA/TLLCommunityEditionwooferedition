@@ -4,6 +4,7 @@ Candy
 Desert
 EgyptPipes
 egyptpipes_scene
+BeforeLoadingScreen
 Organs
 Minigame_yapleap
 TI
