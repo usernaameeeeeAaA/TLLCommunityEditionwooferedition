@@ -18,4 +18,4 @@ monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 knott_special_rare entity Monsters/Knott_special_rare
 
-egyptpipes_scene scene EgyptPipes
+monster_schmoochle_baby entity Monsters/Monster_schmoochle_baby
