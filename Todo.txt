@@ -3,3 +3,4 @@ Todo List
 fix rare claramel 
 make mobile assetbundles
 fix sizes for all fan rares
+young monsters from 3d tll
