@@ -1,0 +1,5 @@
+1.4.7 (example) is normal
+1.4.7.ma is for maintenance
+1.4.7.shutdown is for when the servers have been shutdown
+
+make this for when i change stuff
