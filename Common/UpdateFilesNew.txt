@@ -1,4 +1,4 @@
-candyballs
+youngjeeode
 
 monster_keytrus_rare_new entity Monsters/Monster_keytrus_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
@@ -11,3 +11,4 @@ monster_gobstomper_rare_new entity Monsters/Monster_gobstomper_rare
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 knott_special_rare entity Monsters/Knott_special_rare
+monster_geode entity Monsters/Monster_jeeode_young
