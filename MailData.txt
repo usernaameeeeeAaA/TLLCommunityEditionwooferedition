@@ -1,4 +1,4 @@
-ResetAllAccounts;everyone;Clear data;Click this here button to reset all your data if something has went wrong!;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
+ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data if something has went wrong!;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
 welcome2community-edition-5;everyone;Welcome to TLL: Community Edition!;Hey there! Welcome to the TLL Community Edition, A Private Server for MSM:TLL! If you didn't get this Private server from MSM Extensions, we ask you to please join the MSM Extensions server at https://discord.gg/dbUcuv63h3 or https://discord.gg/tll . Have fun with the infinite currency- a gift from the MSM Extensions Team! Enjoy!;icon@new;diamonds@9999999;coins@9999999;food@9999999;foodB@9999999;Relic@9999999;Level@30;stars@9999999;
 
