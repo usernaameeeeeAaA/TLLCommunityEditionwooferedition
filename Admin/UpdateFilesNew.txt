@@ -1,4 +1,4 @@
-egyptPipes
+eggChild
 
 monster_keytrus_rare_new entity Monsters/Monster_keytrus_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
@@ -20,3 +20,4 @@ knott_special_rare entity Monsters/Knott_special_rare
 
 monster_schmoochle_baby entity Monsters/Monster_schmoochle_baby
 monster_geode entity Monsters/Monster_jeeode_young
+monster_baby_egg entity Monsters/Monster_yool_young
