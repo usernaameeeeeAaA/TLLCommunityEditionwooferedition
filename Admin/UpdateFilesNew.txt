@@ -19,3 +19,4 @@ monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 knott_special_rare entity Monsters/Knott_special_rare
 
 monster_schmoochle_baby entity Monsters/Monster_schmoochle_baby
+monster_geode entity Monsters/Monster_jeeode_young
