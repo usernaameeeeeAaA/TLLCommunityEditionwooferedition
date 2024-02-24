@@ -1962,3 +1962,14 @@ Rainbow Flakes
 Shugar
 Marma
 ;
+
+Monsters/Krillby
+Jolen
+Krill
+Pie
+;
+Monsters/Monster_drummidary
+Drummy
+Rocky
+Smash
+;
