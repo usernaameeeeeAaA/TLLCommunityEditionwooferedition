@@ -1967,6 +1967,7 @@ Monsters/Krillby
 Jolen
 Krill
 Pie
+Snowflake
 ;
 Monsters/Monster_drummidary
 Drummy
