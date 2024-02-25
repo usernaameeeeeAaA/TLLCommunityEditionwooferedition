@@ -1,7 +1,7 @@
 VOID
 
 monster_geode entity Monsters/Monster_jeeode_young
-monster_baby_egg entity Monsters/Monster_yool_young
+monster_yool_young entity Monsters/Monster_yool_young
 
 monster_keytrus_rare_new entity Monsters/Monster_keytrus_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
