@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3072829231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0dd0ebe41f3a61fc2db97c0e6df5d2a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/music/candy/Candy_Krillby_1.ogg
+Dependencies: []
