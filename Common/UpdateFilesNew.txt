@@ -14,3 +14,4 @@ monster_gobstomper_rare_new entity Monsters/Monster_gobstomper_rare
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 monster_VOIDTRUS entity Monsters/Monster_VOIDTRUS
+knott_special_rare entity Monsters/Knott_special_rare
