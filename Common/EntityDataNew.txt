@@ -36,10 +36,10 @@ Monsters/Monster_denchuhs diamonds=60 water@bone 36000 20 coins=1@80@coins=150 M
 Monsters/Monster_pango diamonds=40 air@cold 28800 15 coins=1@80@coins=90 Natural pango,pango 4 0
 
 Monsters/Monster_olga diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma olga,olga 0 0
-Monsters/Monster_olga_rare diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma olga_rare,olga_rare 0 0
+Monsters/Monster_olga_rare diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma-r olga_rare,olga_rare 0 0
 Monsters/Monster_potbellyGM diamonds=1000 water-g 72000 30 coins=2@80@coins=180 Gamma potbellyGM,potbellyGM 0 0
 Monsters/Monster_quibbleGM diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma quibbleGM,quibbleGM 0 0
-Monsters/Monster_quibblegm_rare diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma quibbleGM_rare,quibbleGM_rare 0 0
+Monsters/Monster_quibblegm_rare diamonds=2000 water-g 72000 30 coins=2@80@coins=180 Gamma-r quibbleGM_rare,quibbleGM_rare 0 0
 
 Monsters/Monster_mammott coins=400 cold 300 5 coins=1@120@coins=60 Natural mammott,mammott 0 0
 
@@ -111,8 +111,8 @@ Monsters/Monster_spurrit diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seas
 Monsters/Monster_furcorn diamonds=40 plant@cold 28800 15 coins=1@80@coins=90 Natural furcorn,furcorn 4 0
 Monsters/Monster_spurrit_desert diamonds=250 spurrit 43200 25 coins=1@28@coins=550 Seasonal spurrit,spurrit 10 0
 
-Monsters/Special/Monster_melochness coins=1 water@faerie 1 10 coins=1@120@coins=90 Magical melochness,melochness 100 5
-Monsters/Monster_percFrog coins=1 water@earth@faerie 10 0 coins=1@72@coins=100 Magical percFrog,percFrog 100 5
+Monsters/Special/Monster_melochness coins=1 water@faerie 1 10 coins=1@120@coins=90 Special melochness,melochness 100 5
+Monsters/Monster_percFrog coins=1 water@earth@faerie 10 0 coins=1@72@coins=100 Special percFrog,percFrog 100 5
 
 Monsters/Monster_arackulele diamonds=6000 mech@shadow 10 100 coins=2@72@coins=1000 Ethereal arackulele,arackulele 0 0
 Monsters/Monster_reebro diamonds=1000 mech 10 100 coins=2@72@coins=1000 Ethereal reebro,reebro 0 0
@@ -146,9 +146,9 @@ Monsters/Monster_theremind coins=400 psychic 14400 10 coins=1@120@coins=90 Magic
 Monsters/Monster_theremind_meduza coins=400 psychic 14400 10 coins=1@120@coins=90 Magical theremind,theremind 6 0
 
 Monsters/Monster_handmond coins=400 organ 14400 10 coins=1@120@coins=90 Lost handmond,handmond 6 0
-Monsters/Monster_handmond_rare coins=400 organ 14400 10 coins=1@120@coins=90 Lost handmond,handmond_rare 6 0
+Monsters/Monster_handmond_rare coins=400 organ 14400 10 coins=1@120@coins=90 Lost-r handmond,handmond_rare 6 0
 Monsters/Monster_whimstlop coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
-Monsters/Monster_whimstlop_rare coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop_rare 6 0
+Monsters/Monster_whimstlop_rare coins=400 organ 14400 10 coins=1@120@coins=90 Lost-r whimstlop,whimstlop_rare 6 0
 Monsters/Monster_whimstlop_meduza coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
 
 
@@ -164,17 +164,17 @@ Monsters/Knott_9 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@d
 Monsters/Knott_10 diamonds=2000 knottshurr 0 10000000 diamonds=2,stars=10@43200@diamonds=2,stars=10 Lost ,Knott_10 0 0
 Monsters/Knott_special diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=10@43200@diamonds=10,stars=20 Lost ,Knott_special 0 0
 
-Monsters/Knott_1_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_1_rare 0 0
-Monsters/Knott_2_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_2_rare 0 0
-Monsters/Knott_3_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_3_rare 0 0
-Monsters/Knott_4_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_4_rare 0 0
-Monsters/Knott_5_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_5_rare 0 0
-Monsters/Knott_6_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_6_rare 0 0
-Monsters/Knott_7_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_7_rare 0 0
-Monsters/Knott_8_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_8_rare 0 0
-Monsters/Knott_9_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_9_rare 0 0
-Monsters/Knott_10_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_10_rare 0 0
-Monsters/Knott_special_rare diamonds=2000 knottshurr 0 10000000 diamonds=5,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost ,Knott_special_rare 0 0
+Monsters/Knott_1_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost-r ,Knott_1_rare 0 0
+Monsters/Knott_2_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost-r ,Knott_2_rare 0 0
+Monsters/Knott_3_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost-r ,Knott_3_rare 0 0
+Monsters/Knott_4_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost-r ,Knott_4_rare 0 0
+Monsters/Knott_5_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost-r ,Knott_5_rare 0 0
+Monsters/Knott_6_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost-r ,Knott_6_rare 0 0
+Monsters/Knott_7_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost-r ,Knott_7_rare 0 0
+Monsters/Knott_8_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost-r ,Knott_8_rare 0 0
+Monsters/Knott_9_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost-r ,Knott_9_rare 0 0
+Monsters/Knott_10_rare diamonds=2000 knottshurr 0 10000000 diamonds=4,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost-r ,Knott_10_rare 0 0
+Monsters/Knott_special_rare diamonds=2000 knottshurr 0 10000000 diamonds=5,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Lost-r ,Knott_special_rare 0 0
 
 
 Monsters/Monster_maulch coins=10000 electricity 0 10000000 diamonds=1,stars=1,stars=1@43200@diamonds=2,stars=2,stars=1 Supernatural ,maulch 0 3
@@ -207,31 +207,39 @@ Monsters/Monster_phangler_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@co
 Monsters/Monster_stogg_undof diamonds=50 earth-o@fire-o 36000 9 coins=6@60@coins=500 Natural stogg-o,stogg-o 0 0
 
 Monsters/Monster_fwog_rare_undof diamonds=30 earth-o@water-o 1800 8 coins=5@60@coins=225 Natural-r fwog-r,fwog-r 0 0
-Monsters/Monster_thrumble_rare_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural-r thrumble_rare-o,thrumble_rare-o 0 0
-Monsters/Monster_phangler_rare_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural-r phnagler_rare-o,phnagler_rare-o 0 0
+Monsters/Monster_thrumble_rare_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural-r spore_CDN_RARE,thrumble_rare-o 0 0
+Monsters/Monster_phangler_rare_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural-r spore_DN_RARE,phnagler_rare-o 0 0
 Monsters/Monster_stogg_rare_undof diamonds=50 earth-o@fire-o 36000 9 coins=6@60@coins=500 Natural-r stogg_rare-o,stogg_rare-o 0 0
 
 Monsters/Monster_gumtromp coins=25000 candy 21600 7 coins=4@60@coins=57 Lost gumtromp,gumtromp 0 0
 Monsters/Monster_gumtromp_rare diamonds=225 candy 28800 14 coins=8@60@coins=100 Lost-r gumtromp_rare,gumtromp_rare 0 0
 
 Monsters/Monster_keytrus diamonds=300 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost keytrus,keytrus 0 0
-Monsters/Monster_keytrus_rare diamonds=600 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost keytrus_rare,keytrus_rare 0 0
+Monsters/Monster_keytrus_rare diamonds=600 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost-r keytrus_rare,keytrus_rare 0 0
+
 Monsters/Monster_koodahcane diamonds=150 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane,koodahcane 0 0
-Monsters/Monster_koodahcane_rare diamonds=300 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane_rare,koodahcane_rare 0 0
+Monsters/Monster_koodahcane_rare diamonds=300 water-o@candy 32400 16 coins=7@60@coins=481 Lost-r koodahcane_rare,koodahcane_rare 0 0
+
 Monsters/Monster_marshflamo diamonds=150 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo,marshflamo 0 0
-Monsters/Monster_marshflamo_rare diamonds=300 fire-o@candy 32400 16 coins=7@60@coins=481 Lost marshflamo_rare,marshflamo_rare 0 0
+Monsters/Monster_marshflamo_rare diamonds=300 fire-o@candy 32400 16 coins=7@60@coins=481 Lost-r marshflamo_rare,marshflamo_rare 0 0
+
 Monsters/Monster_brasscuit diamonds=300 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost brasscuit,brasscuit 0 0
-Monsters/Monster_brasscuit_rare diamonds=600 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost brasscuit_rare,brasscuit_rare 0 0
+Monsters/Monster_brasscuit_rare diamonds=600 earth-o@candy@fire-o 57600 5 coins=11@60@coins=7320 Lost-r brasscuit_rare,brasscuit_rare 0 0
+
 Monsters/Monster_gobstomper diamonds=150 earth-o@candy 32400 16 coins=7@60@coins=481 Lost gobstomper,gobstomper 0 0
-Monsters/Monster_gobstomper_rare diamonds=300 earth-o@candy 32400 16 coins=7@60@coins=481 Lost gobstomper_rare,gobstomper_rare 0 0
+Monsters/Monster_gobstomper_rare diamonds=300 earth-o@candy 32400 16 coins=7@60@coins=481 Lost-r gobstomper_rare,gobstomper_rare 0 0
+
 Monsters/Monster_claramel diamonds=300 candy@water-o@fire-o 57600 5 coins=11@60@coins=7320 Lost claramel,claramel 0 0
-Monsters/Monster_claramel_rare diamonds=600 candy@water-o@fire-o 57600 5 coins=11@60@coins=7320 Lost claramel_rare,claramel_rare 0 0
+Monsters/Monster_claramel_rare diamonds=600 candy@water-o@fire-o 57600 5 coins=11@60@coins=7320 Lost-r claramel_rare,claramel_rare 0 0
+
 Monsters/Monster_sprinklate diamonds=600 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate,sprinklate 0 0
-Monsters/Monster_sprinklate_rare diamonds=1200 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost sprinklate,sprinklate 0 0
+Monsters/Monster_sprinklate_rare diamonds=1200 earth-o@water-o@fire-o@candy 115200 30 coins=15@60@coins=25207 Lost-r sprinklate,sprinklate 0 0
+
 Monsters/Monster_jamboree_undof diamonds=500 anniversay-o 145440 35 coins=1@120@coins=60 Seasonal jamboree-o,jamboree-o 0 0
 Monsters/Monster_jamboree_rare_undof diamonds=1000 anniversay-o 180000 35 coins=1@120@coins=60 Seasonal-r jamboree_rare,jamboree-o 0 0
+
 Monsters/Monster_ghazt_undof diamonds=1000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal ghazt-o,ghazt-o 0 0
-Monsters/Monster_ghazt_rare_undof diamonds=2000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal ghazt_rare-o,ghazt_rare-o 0 0
+Monsters/Monster_ghazt_rare_undof diamonds=2000 plasma-o 129600 40 coins=5@120@coins=60 Ethereal-r ghazt_rare-o,ghazt_rare-o 0 0
 
 Monsters/Monster_jobo Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Legendary jobo,jobo 0 0
 Monsters/Monster_treble Relic=50 legendary-o 129600 40 coins=5@120@coins=60 Legendary jobo,jobo 0 0
@@ -388,17 +396,17 @@ Monsters/Monster_dragong_dream coins=0 nightmare 0 69 coins=0@120@coins=60 night
 Monsters/Monster_PummelGM coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
 
 
-Monsters/Bonapetite coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Congle coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Gnarls coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Krillby coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Pladdie coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Scaratar coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Uuduk coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Whimmzies coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Loodvigg coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Buzzinga coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Shlep coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Bonapetite coins=0 electricity 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Congle coins=0 air@water@cold 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Gnarls coins=0 plant@water@earth@cold@fire 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Krillby coins=0 air@earth@cold@fire 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Scaratar coins=0 celestial 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Uuduk coins=0 earth@fire@bone 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Whimmzies coins=0 fire@faerie 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Loodvigg coins=0 celestial 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Buzzinga coins=0 mythical-o 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Shlep coins=0 mythical-o@dream 0 9 coins=0@120@coins=60 nightmare , 0 0
 
-Monsters/whatthehell coins=0 nightmare 0 420 coins=0@666@coins=6969696969 nightmare , 0 0
-Monsters/whatthehell2 coins=0 nightmare 0 420 coins=0@666@coins=6969696969 nightmare , 0 0
+Monsters/whatthehell coins=0 Big 0 420 coins=0@666@coins=6969696969 nightmare , 0 0
+Monsters/whatthehell2 coins=0 Big 0 420 coins=0@666@coins=6969696969 nightmare , 0 0

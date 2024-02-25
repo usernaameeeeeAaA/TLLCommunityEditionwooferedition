@@ -1077,6 +1077,8 @@ str_class_Lost=Strayed
 str_class_Lost-r=Strayed(rare)
 str_class_Lost-l=Strayed(lost)
 str_class_Gamma=Gamma
+str_class_Gamma-r=Gamma(rare)
+str_class_Gamma-l=Gamma(lost)
 str_class_Seasonal=Seasonal
 str_class_Seasonal-r=Seasonal(rare)
 str_class_Seasonal-l=Seasonal(lost)
@@ -1088,12 +1090,13 @@ str_class_Mythical=Mythical
 str_class_Mythical-r=Mythical(rare)
 str_class_Mythical-l=Mythical(lost)
 str_class_Legendary=Legendary
-str_class_Nightmare=Nightmare
+str_class_nightmare=Nightmare
 str_class_nightmare-r=Nightmare(rare)
 str_class_nightmare-l=Nightmare(lost)
 MISSING_str_class_nightmare=Nightmare
 MISSING_str_class_nightmare-r=Nightmare(rare)
 MISSING_str_class_nightmare-l=Nightmare(lost)
+str_class_special=Special
 
 str_credits_translation=Portuguese translations + Helping
 
