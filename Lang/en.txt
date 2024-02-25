@@ -1079,6 +1079,7 @@ str_class_Celestial-l=Celestial (elder)
 str_class_Celestial-s=Supercelestial
 str_class_Celestial-s-r=Supercelestial (adult)
 str_class_Celestial-s-l=Supercelestial (elder)
+str_class_Celestial-s-l-r=Supercelestial (elder) (rare)
 str_class_Lost=Strayed
 str_class_Lost-r=Strayed (rare)
 str_class_Lost-l=Strayed (lost)
