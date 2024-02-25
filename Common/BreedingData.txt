@@ -64,7 +64,8 @@ Monsters/Monster_bridgit_young 99
 Monsters/Monster_frondley_young 99
 Monsters/Monster_gloptic_young 99
 
-Monsters/Monster_jeeode_young=Monsters/Monster_knucklehead_young+Monsters/Monster_clackula_young 99
+Monsters/Monster_jeeode_young=Monsters/Monster_reedling_young+Monsters/Monster_fluoress_young 10
+Monsters/Monster_yool_young=Monsters/Monster_stogg_young+Monsters/Monster_gloptic_young 10
 Monsters/Monster_punkleton_young=Monsters/Monster_reedling_young+Monsters/Monster_oaktopus_young 99
 
 ;
