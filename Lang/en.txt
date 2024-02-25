@@ -396,7 +396,7 @@ Monsters/VOIDCORN_dream_bio=WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE
 Monsters/Monster_dragong_dream=Demented Dragong
 Monsters/Monster_dragong_dream_bio=It's too late
 
-Monsters/Monster_VOIDTRUS=VOIDTRUS
+Monsters/Monster_VOIDTRUS=<color="red">VOIDTRUS</color>
 Monsters/Monster_VOIDTRUS_bio=WHAT THE HELL IS THAT
 
 Monsters/Monster_whimstlop=Whimstlop
