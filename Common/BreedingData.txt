@@ -131,3 +131,5 @@ Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_thrumb
 
 Monsters/whatthehell=Monsters/Monster_marshflamo+Monsters/Monster_gumtromp 2
 Monsters/whatthehell2=Monsters/Monster_marshflamo+Monsters/Monster_sprinklate 1
+
+toir=Monsters/Monster_stogg_undof+Monsters/Monster_keytrus 40
