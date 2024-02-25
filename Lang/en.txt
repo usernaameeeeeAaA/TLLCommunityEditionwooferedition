@@ -396,6 +396,9 @@ Monsters/VOIDCORN_dream_bio=WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE
 Monsters/Monster_dragong_dream=Demented Dragong
 Monsters/Monster_dragong_dream_bio=It's too late
 
+Monsters/Monster_VOIDTRUS=VOIDTRUS
+Monsters/Monster_VOIDTRUS_bio=WHAT THE HELL IS THAT
+
 Monsters/Monster_whimstlop=Whimstlop
 Monsters/Monster_whimstlop_bio=The inner machinations of the Whimstlop are an enigma. What's seen on the outside of this passive monster is merely a suit of armor, with its "helmet" portion enlarged by the wielding of discarded armor from its youth. Its organic aspects lie beneath its metallic sheathing, with the only visible parts being a singular eye (it lost the other one) and two twig-like legs (surprisingly strong given the burden of lifting its armor). Depending on its environment, a Whimstlop can don an armor of a different material to fit its current needs. Sometimes they work as part-time leafblowers, expelling much of the dirt and grime its other monster pals bring in.
 Monsters/Monster_whimstlop_meduza=<ref>Monsters/Monster_whimstlop
