@@ -27,7 +27,7 @@ Monsters/Monster_varrow_rare diamonds=130 air@faerie 72000 40 coins=2@80@coins=3
 Monsters/Monster_spunge_rare diamonds=1 water@air@plant 86400 50 coins=2@72@coins=260 Natural-r spunge_rare,spunge_rare 0 0
 Monsters/Monster_dulsylvan_rare diamonds=160 air@plant@faerie 93600 60 coins=2@72@coins=520 Magical-r dulsylvan_rare,dulsylvan_rare 0 0
 Monsters/Monster_banno_rare diamonds=160 air@water@faerie 93600 60 coins=2@72@coins=520 Magical-r banno_rare,banno_rare 0 0
-Monsters/Monster_phangler_rare diamonds=1000 water@fire 72000 30 coins=2@80@coins=180 Natural-r phangler_rare,phangler_rare 0 0
+Monsters/Monster_phangler_rare diamonds=1000 water@fire 72000 30 coins=2@80@coins=180 Natural-fire-r phangler_rare,phangler_rare 0 0
 
 Monsters/Monster_clamble diamonds=70 earth@plant@cold 43200 25 coins=1@72@coins=260 Natural clamble,clamble 4 0
 
@@ -48,18 +48,18 @@ Monsters/Monster_mammott_meduza coins=400 cold 300 5 coins=1@120@coins=60 Natura
 Monsters/Monster_noggin coins=400 earth 300 5 coins=1@120@coins=60 Natural noggin,noggin 0 0
 Monsters/Monster_noggin_meduza coins=400 earth 300 5 coins=1@120@coins=60 Natural noggin,noggin 0 0
 
-Monsters/Monster_boskus diamonds=40 cold@fire 28800 15 coins=1@80@coins=90 Natural boskus,boskus 4 0
+Monsters/Monster_boskus diamonds=40 cold@fire 28800 15 coins=1@80@coins=90 Natural-fire boskus,boskus 4 0
 Monsters/Monster_cybop diamonds=40 air@earth 28800 15 coins=1@80@coins=90 Natural cybop,cybop 4 0
 
 Monsters/Monster_maw diamonds=40 cold@water 28800 15 coins=1@80@coins=90 Natural maw,maw 4 0
 Monsters/Monster_maw_meduza diamonds=40 cold@water 28800 15 coins=1@80@coins=90 Natural maw,maw 4 0
 
-Monsters/Monster_bisonorus diamonds=130 air@plant@water@fire 79200 40 coins=1@28@coins=550 Natural bisonorus,bisonorus 6 0
+Monsters/Monster_bisonorus diamonds=130 air@plant@water@fire 79200 40 coins=1@28@coins=550 Natural-fire bisonorus,bisonorus 6 0
 
-Monsters/Monster_pongping diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28@coins=550 Natural pongping,pongping 6 0
-Monsters/Monster_pongping_meduza diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28@coins=550 Natural pongping,pongping 6 0
+Monsters/Monster_pongping diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28@coins=550 Natural-fire pongping,pongping 6 0
+Monsters/Monster_pongping_meduza diamonds=130 plant@earth@fire@cold 79200 40 coins=1@28@coins=550 Natural-fire pongping,pongping 6 0
 
-Monsters/Monster_tiawa diamonds=130 earth@water@fire@cold 79200 40 coins=1@28@coins=550 Natural tiawa,tiawa 6 0
+Monsters/Monster_tiawa diamonds=130 earth@water@fire@cold 79200 40 coins=1@28@coins=550 Natural-fire tiawa,tiawa 6 0
 Monsters/Monster_shellbeat diamonds=130 earth@water@plant@air 79200 40 coins=1@28@coins=550 Natural shellbeat,shellbeat 6 0
 
 Monsters/Monster_meduza diamonds=1000 undead 0 100 coins=10@80@coins=1000 Supernatural meduza,meduza 10 0
@@ -138,7 +138,7 @@ Monsters/Monster_bone_candy diamonds=10000 super-celestial 19 10000000 coins=400
 Monsters/Monster_psychic diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s psychic,psychic 8 0
 Monsters/Monster_faerie diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s faerie,faerie 8 0
 
-Monsters/Monster_phangler diamonds=500 water@fire 36000 15 coins=1@80@coins=90 Natural phangler,phangler 6 0
+Monsters/Monster_phangler diamonds=500 water@fire 36000 15 coins=1@80@coins=90 Natural-fire phangler,phangler 6 0
 Monsters/Monster_bridgit diamonds=750 faerie@earth@fire 36000 30 coins=1@72@coins=260 Magical bridgit,bridgit 6 0
 Monsters/Monster_frondley diamonds=750 psychic@faerie@light 36000 50 coins=1@72@coins=300 Magical frondley,frondley 6 0
 
@@ -147,6 +147,7 @@ Monsters/Monster_theremind_meduza coins=400 psychic 14400 10 coins=1@120@coins=9
 
 Monsters/Monster_handmond coins=400 organ 14400 10 coins=1@120@coins=90 Lost handmond,handmond 6 0
 Monsters/Monster_handmond_rare coins=400 organ 14400 10 coins=1@120@coins=90 Lost-r handmond,handmond_rare 6 0
+
 Monsters/Monster_whimstlop coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
 Monsters/Monster_whimstlop_rare coins=400 organ 14400 10 coins=1@120@coins=90 Lost-r whimstlop,whimstlop_rare 6 0
 Monsters/Monster_whimstlop_meduza coins=400 organ 14400 10 coins=1@120@coins=90 Lost whimstlop,whimstlop 6 0
@@ -195,20 +196,20 @@ Monsters/Monster_knurv_rock diamonds=20 electricity 0 10000000 diamonds=1,stars=
 
 Monsters/Monster_toejammer_undof coins=250 water-o 60 5 coins=2@60@coins=30 Natural toejammer-o,toejammer-o 0 0
 
-Monsters/Monster_kayna_undof coins=22500 fire-o 25200 5 coins=5@60@coins=45 Natural kayna-o,kayna-o 0 0
-Monsters/Monster_kayna_rare_undof diamonds=150 fire-o 28800 5 coins=5@60@coins=300 Natural-r kayna_rare-o,kayna_rare-o 0 0
+Monsters/Monster_kayna_undof coins=22500 fire-o 25200 5 coins=5@60@coins=45 Natural-fire kayna-o,kayna-o 0 0
+Monsters/Monster_kayna_rare_undof diamonds=150 fire-o 28800 5 coins=5@60@coins=300 Natural-fire-r kayna_rare-o,kayna_rare-o 0 0
 
 Monsters/Monster_noggin_undof coins=300 earth-o 5 5 coins=4@60@coins=18 Natural noggin-o,noggin-o 0 0
 Monsters/Monster_noggin_rare_undof diamonds=75 earth-o 5 5 coins=5@120@coins=240 Natural-r noggin_rare-o,noggin_rare-o 0 0
 
 Monsters/Monster_fwog_undof diamonds=30 earth-o@water-o 1800 8 coins=5@60@coins=225 Natural fwog-o,fwog-o 0 0
-Monsters/Monster_thrumble_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural thrumble-o,thrumble-o 0 0
-Monsters/Monster_phangler_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural phnagler-o,phnagler-o 0 0
+Monsters/Monster_thrumble_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural-fire thrumble-o,thrumble-o 0 0
+Monsters/Monster_phangler_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural-fire phnagler-o,phnagler-o 0 0
 Monsters/Monster_stogg_undof diamonds=50 earth-o@fire-o 36000 9 coins=6@60@coins=500 Natural stogg-o,stogg-o 0 0
 
 Monsters/Monster_fwog_rare_undof diamonds=30 earth-o@water-o 1800 8 coins=5@60@coins=225 Natural-r fwog-r,fwog-r 0 0
-Monsters/Monster_thrumble_rare_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural-r spore_CDN_RARE,thrumble_rare-o 0 0
-Monsters/Monster_phangler_rare_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural-r spore_DN_RARE,phnagler_rare-o 0 0
+Monsters/Monster_thrumble_rare_undof diamonds=100 earth-o@water-o@fire-o 72000 15 coins=12@60@coins=240 Natural-fire-r spore_CDN_RARE,thrumble_rare-o 0 0
+Monsters/Monster_phangler_rare_undof diamonds=50 water-o@fire-o 36000 9 coins=6@60@coins=500 Natural-fire-r spore_DN_RARE,phnagler_rare-o 0 0
 Monsters/Monster_stogg_rare_undof diamonds=50 earth-o@fire-o 36000 9 coins=6@60@coins=500 Natural-r stogg_rare-o,stogg_rare-o 0 0
 
 Monsters/Monster_gumtromp coins=25000 candy 21600 7 coins=4@60@coins=57 Lost gumtromp,gumtromp 0 0
@@ -396,17 +397,17 @@ Monsters/Monster_dragong_dream coins=0 nightmare 0 69 coins=0@120@coins=60 night
 Monsters/Monster_PummelGM coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
 
 
-Monsters/Bonapetite coins=0 electricity 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Congle coins=0 air@water@cold 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Gnarls coins=0 plant@water@earth@cold@fire 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Krillby coins=0 air@earth@cold@fire 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Scaratar coins=0 celestial 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Uuduk coins=0 earth@fire@bone 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Whimmzies coins=0 fire@faerie 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Loodvigg coins=0 celestial 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Buzzinga coins=0 mythical-o 0 9 coins=0@120@coins=60 nightmare , 0 0
-Monsters/Shlep coins=0 mythical-o@dream 0 9 coins=0@120@coins=60 nightmare , 0 0
+Monsters/Bonapetite coins=0 electricity 0 9 coins=0@120@coins=60 Supernatural , 0 0
+Monsters/Congle coins=0 air@water@cold 0 9 coins=0@120@coins=60 Natural , 0 0
+Monsters/Gnarls coins=0 plant@water@earth@cold@fire 0 9 coins=0@120@coins=60 Natural-fire , 0 0
+Monsters/Krillby coins=0 air@earth@cold@fire 0 9 coins=0@120@coins=60 Natural-fire , 0 0
+Monsters/Pladdie coins=0 earth@cold@fire@faerie 0 9 coins=0@120@coins=60 Magical , 0 0
+Monsters/Scaratar coins=0 celestial 0 9 coins=0@120@coins=60 Celestial , 0 0
+Monsters/Uuduk coins=0 earth@fire@bone 0 9 coins=0@120@coins=60 Magical , 0 0
+Monsters/Whimmzies coins=0 fire@faerie 0 9 coins=0@120@coins=60 Magical , 0 0
+Monsters/Loodvigg coins=0 celestial 0 9 coins=0@120@coins=60 Celestial-r , 0 0
+Monsters/Buzzinga coins=0 mythical-o 0 9 coins=0@120@coins=60 Mythical , 0 0
+Monsters/Shlep coins=0 mythical-o@dream 0 9 coins=0@120@coins=60 Mythical , 0 0
 
-Monsters/whatthehell coins=0 Big 0 420 coins=0@666@coins=6969696969 nightmare , 0 0
-Monsters/whatthehell2 coins=0 Big 0 420 coins=0@666@coins=6969696969 nightmare , 0 0
+Monsters/whatthehell coins=0 Big 0 420 coins=0@666@coins=6969696969 Special , 0 0
+Monsters/whatthehell2 coins=0 Big 0 420 coins=0@666@coins=6969696969 Special , 0 0
