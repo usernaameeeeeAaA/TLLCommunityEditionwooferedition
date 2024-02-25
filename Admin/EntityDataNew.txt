@@ -388,6 +388,7 @@ Monsters/Monster_dragong_dream coins=0 nightmare 0 69 coins=0@120@coins=60 night
 
 Monsters/Monster_PummelGM coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
 
+Monsters/Monster_VOIDTRUS coins=0 nightmare 0 150 coins=0@120@coins=60 nightmare , 0 0
 
 Monsters/Bonapetite coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
 Monsters/Congle coins=0 nightmare 0 69 coins=0@120@coins=60 nightmare , 0 0
