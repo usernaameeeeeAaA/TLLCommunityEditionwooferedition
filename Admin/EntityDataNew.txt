@@ -133,11 +133,11 @@ Monsters/Monster_furnoss diamonds=7500 celestial 19 10000000 coins=4000@43200@co
 Monsters/Monster_glaishur diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-l glaishur,glaishur 8 0
 Monsters/Monster_galvana diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-l galvana,galvana 8 0
 Monsters/Monster_plixie diamonds=7500 celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-l plixie,plixie 8 0
-Monsters/Monster_light diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-l-s light,light 8 0
-Monsters/Monster_bone diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-l-s bone,bone 8 0
-Monsters/Monster_bone_candy diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-l-s bone,bone 8 0
-Monsters/Monster_psychic diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-l-s psychic,psychic 8 0
-Monsters/Monster_faerie diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-l-s faerie,faerie 8 0
+Monsters/Monster_light diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s-l light,light 8 0
+Monsters/Monster_bone diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s-l bone,bone 8 0
+Monsters/Monster_bone_candy diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s-l bone,bone 8 0
+Monsters/Monster_psychic diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s-l psychic,psychic 8 0
+Monsters/Monster_faerie diamonds=10000 super-celestial 19 10000000 coins=4000@43200@coins=10000 Celestial-s-l faerie,faerie 8 0
 
 Monsters/Monster_phangler diamonds=500 water@fire 36000 15 coins=1@80@coins=90 Natural phangler,phangler 6 0
 Monsters/Monster_bridgit diamonds=750 faerie@earth@fire 36000 30 coins=1@72@coins=260 Magical bridgit,bridgit 6 0
