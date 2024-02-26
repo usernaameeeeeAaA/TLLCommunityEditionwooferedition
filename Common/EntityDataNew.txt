@@ -220,7 +220,7 @@ Monsters/Monster_gumtromp_rare diamonds=225 candy 28800 14 coins=8@60@coins=100 
 
 Monsters/Monster_keytrus diamonds=300 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost keytrus,keytrus 0 0
 Monsters/Monster_keytrus_rare diamonds=600 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost-r keytrus_rare,keytrus_rare 0 0
-Monsters/Monster_keymond diamonds=1200 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost keytrus_rare,keytrus_rare 0 0
+Monsters/Monster_keymond diamonds=1200 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Sex keymond,keymond 0 0
 skibiditrus diamonds=1600 earth-o@water-o@candy 57600 5 coins=11@60@coins=7320 Lost keytrus_rare,keytrus_rare 0 0
 
 Monsters/Monster_koodahcane diamonds=150 water-o@candy 32400 16 coins=7@60@coins=481 Lost koodahcane,koodahcane 0 0
@@ -419,4 +419,3 @@ Monsters/Shlep coins=0 mythical-o@dream 0 9 coins=0@120@coins=60 Mythical , 0 0
 
 Monsters/whatthehell coins=0 Big 0 420 coins=0@666@coins=6969696969 Special , 0 0
 Monsters/whatthehell2 coins=0 Big 0 420 coins=0@666@coins=6969696969 Special , 0 0
-Monsters/keymond coins=0 Big 0 0 coins=0@666@coins=6969696969 Sex , 0 0
