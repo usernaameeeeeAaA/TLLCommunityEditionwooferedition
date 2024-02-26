@@ -10,6 +10,7 @@ whatthehell2 entity Monsters/whatthehell2
 monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
 monster_claramel_rare entity Monsters/Monster_claramel_rare
 monster_gobstomper_rare_new entity Monsters/Monster_gobstomper_rare
+monster_knife_rare entity Monsters/Monster_knife_rare
 
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
