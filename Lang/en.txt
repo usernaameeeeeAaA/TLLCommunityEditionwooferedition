@@ -11,7 +11,7 @@ toir=Riot
 toir_bio=RIOT IS THAT YOU
 
 Monsters/Monster_keymond=Keymond
-Monsters/Monster_keymond_bio=what the fuck is this. yeah, i just sweared, cry about it kid.
+Monsters/Monster_keymond_bio=what the fuck is this. yeah, I just swore, weep.
 
 skibiditrus=Skibiditrus
 skibiditrus_bio=STOP LETTING ME USE A COMPUTER
@@ -1099,6 +1099,12 @@ str_class_Celestial-s-l=Supercelestial (elder)
 str_class_Lost=Strayed
 str_class_Lost-r=Strayed (rare)
 str_class_Lost-l=Strayed (lost)
+str_class_Special=Special
+str_class_Special-r=Special (rare)
+str_class_Special-l=Special (lost)
+str_class_Sex=Sex
+str_class_Sex-r=Sex (rare)
+str_class_Sex-l=Sex (lost)
 str_class_Gamma=Gamma
 str_class_Gamma-r=Gamma (rare)
 str_class_Gamma-l=Gamma (lost)
