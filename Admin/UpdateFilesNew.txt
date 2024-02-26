@@ -14,6 +14,7 @@ monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
 monster_thrumble_rare_undof entity Monsters/Monster_thrumble_rare_undof
 monster_phangler_rare_undof entity Monsters/Monster_phangler_rare_undof
 monster_jamboree_rare_undof entity Monsters/Monster_jamboree_rare_undof
+monster_knife_rare entity Monsters/Monster_knife_rare
 
 monster_VOIDTRUS entity Monsters/Monster_VOIDTRUS
 
