@@ -1,4 +1,4 @@
-candycane
+candycorn
 
 monster_geode entity Monsters/Monster_jeeode_young
 monster_yool_young entity Monsters/Monster_yool_young
