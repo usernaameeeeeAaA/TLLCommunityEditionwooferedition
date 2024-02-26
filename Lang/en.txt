@@ -11,7 +11,7 @@ toir=Riot
 toir_bio=RIOT IS THAT YOU
 
 Monsters/Monster_keymond=Keymond
-Monsters/Monster_keymond_bio=what the fuck is this. yeah, I just swore, weep.
+Monsters/Monster_keymond_bio=what the fuck is this. yeah, I just swore.
 
 skibiditrus=Skibiditrus
 skibiditrus_bio=STOP LETTING ME USE A COMPUTER
@@ -1160,6 +1160,7 @@ str_popup_tutor4=Good job! Now we have a <color="green">Tweedle</color> here.\n 
 str_noitems=No Items
 
 btn_shop=Market
+btn_shop_costumes=Costumes
 btn_mailbox=Mailbox
 str_taptocollectrewards=Tap them to collect
 str_mailbox_reward_collected=Collected
