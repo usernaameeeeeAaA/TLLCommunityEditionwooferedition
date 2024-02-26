@@ -1,4 +1,6 @@
-raregobs2
+raregobs3
+
+raregobeggs sprites eggs
 
 monster_geode entity Monsters/Monster_jeeode_young
 monster_yool_young entity Monsters/Monster_yool_young
@@ -22,8 +24,6 @@ monster_bone_candy entity Monsters/Monster_bone_candy
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 knott_special_rare entity Monsters/Knott_special_rare
-
-raregobeggs sprites eggs
 
 monster_noggin_undof_costume_candycorn entity Monsters/Monster_noggin_undof_costume_candycorn
 
