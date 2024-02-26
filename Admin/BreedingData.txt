@@ -121,7 +121,8 @@ Monsters/Monster_kayna_rare_undof=Monsters/Monster_claramel+Monsters/Monster_bra
 Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 99
 
 
-Monsters/Monster_knife=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 99
+Monsters/Monster_knife=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 80
+Monsters/Monster_knife_rare=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 19
 
 Monsters/Monster_jamboree_undof=Monsters/Monster_sprinklate+Monsters/Monster_fwog_undof 99
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_claramel 99
