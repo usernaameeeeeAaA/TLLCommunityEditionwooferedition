@@ -1,6 +1,9 @@
-Todo List
+Todo List (from most to least important)
 
 fix rare claramel 
-make mobile assetbundles
 fix sizes for all fan rares
+Update Rare Marshflamo's texture
+Fix Rare Marshflamo's texture thing
+Rare Banchi
 young monsters from 3d tll
+make mobile assetbundles
