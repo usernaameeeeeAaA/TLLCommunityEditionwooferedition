@@ -23,7 +23,7 @@ monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 knott_special_rare entity Monsters/Knott_special_rare
 
-raregobstomper sprites
+raregobstomper sprites eggs
 
 monster_noggin_undof_costume_candycorn entity Monsters/Monster_noggin_undof_costume_candycorn
 
