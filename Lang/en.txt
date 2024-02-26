@@ -610,6 +610,9 @@ Monsters/Monster_kayna_rare_undof_bio=Bearers of the oldest Element of all, Rare
 Monsters/Monster_noggin_undof=<ref>Monsters/Monster_noggin
 Monsters/Monster_noggin_undof_bio=Noggins are basically musical rocks. Deeply in tune with the Earth, their simple rhythms echo an Island’s pulse. The sensation of reverberation produced by a Noggin motivates all other monsters.
 
+Monsters/Monster_noggin_undof_costume_candycorn=Noggin (Rock Candy)
+Monsters/Monster_noggin_undof_costume_candycorn_bio=<ref>Monsters/Monster_noggin_undof_bio
+
 Monsters/Monster_noggin_rare_undof=Rare Noggin
 Monsters/Monster_noggin_rare_undof_bio=After scouring the World for what felt like forever, the Rare Noggin has been unearthed. Not satisfied with a simple existence as a musical rock, this capricious creature reinvented itself as the building block of an exotic edifice. Because of their limited maneuverability, it's unclear whether a group of Rare Noggins could ever actually cooperate to build anything... perhaps a more down-to-Earth goal would be to just keep the rhythm for its fellow monsters.
 
