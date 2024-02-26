@@ -120,7 +120,6 @@ Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monst
 Monsters/Monster_kayna_rare_undof=Monsters/Monster_claramel+Monsters/Monster_brasscuit 99
 Monsters/Monster_kayna_rare_undof=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 99
 
-
 Monsters/Monster_knife=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 80
 Monsters/Monster_knife_rare=Monsters/Monster_thrumble_undof+Monsters/Monster_claramel 19
 
@@ -134,3 +133,4 @@ Monsters/whatthehell=Monsters/Monster_marshflamo+Monsters/Monster_gumtromp 2
 Monsters/whatthehell2=Monsters/Monster_marshflamo+Monsters/Monster_sprinklate 1
 
 toir=Monsters/Monster_stogg_undof+Monsters/Monster_keytrus 40
+Monsters/Monster_keymond=Monsters/whatthehell+toir 99
