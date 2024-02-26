@@ -180,7 +180,7 @@ Monsters/Monster_stoopa=Stoopa
 Monsters/Monster_stoopa_bio=Not much is known about the misty marsh deep in the heart of the Evergreen Woods, but legends speak of a strange monster that watches over and leads the song of the monsters that reside there. And whaddya know, here it is! Stoopa is even more of a recycling expert than Congle, finding anything and everything in nature to produce its song, even if it has to make some exceptions with its nature-based rule at times- proven by those... pots and pans on its stupa? Still very little is known about it, and Stoopa prefers to keep it that way while it wields its strange staff, and guards the secrets of the Marsh.
 
 Monsters/Monster_cataliszt=Cataliszt
-Monsters/Monster_cataliszt_bio=Cataliszt bio
+Monsters/Monster_cataliszt_bio=:3
 
 Monsters/Monster_jobo=Jodel
 Monsters/Monster_jobo_bio=The Werdo Jodel possesses extensive knowledge about Candy Island's colossal wonders, understanding not only how it was made but also the unique preferences of every single monster. Jodel even anticipated the precise arrival of the Jam Boree. This candy connoisseur enhances the enchantment of Candy Island, providing insights into the likes and dislikes of each monster. Explore this sugar-coated paradise with Jodel as your guide through the delightful symphony of the Monster World knowledge.
