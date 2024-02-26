@@ -13,6 +13,9 @@ toir_bio=RIOT IS THAT YOU
 Monsters/Monster_keymond=Keymond
 Monsters/Monster_keymond_bio=what the fuck is this. yeah, i just sweared, cry about it kid.
 
+skibiditrus=Skibiditrus
+skibiditrus_bio=STOP LETTING ME USE A COMPUTER
+
 Monsters/Monster_jeeode_young=Young Jeeode
 Monsters/Monster_jeeode_young_bio=The wise Jeeode is renowned for its ability to see all sides of a situation. Harnessing the Ethereal power of Crystal, it pictures each scenario as sitting in the center of a giant prism, looking at each facet one at a time. Then, it somehow creates a solution that leaves everyone smiling. Because of this refined perspective, Jeeodes are first-rate instrumentalists, never missing a note.
 
