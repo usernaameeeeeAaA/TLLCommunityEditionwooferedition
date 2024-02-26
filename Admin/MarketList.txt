@@ -556,6 +556,9 @@ Monsters/Monster_jobo coins=0
 Monsters/Monster_treble coins=0
 Monsters/Krillby diamonds=0
 -
+costumes:
+Monsters/Krillby diamonds=0
+-
 decorations:
 Decoration/Decoration_test
 Decoration/Decoration_test1
