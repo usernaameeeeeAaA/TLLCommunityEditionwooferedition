@@ -9,6 +9,16 @@ Sirana
 Finnth
 Depf
 ;
+Monsters/Monster_knife_rare
+Abeno
+Seymey
+Youkai
+Bakestereo
+Taco
+KuroKami
+Kamikiri
+Seppuku
+;
 Monsters/Monster_choral
 Coralline
 Toot n' Root
