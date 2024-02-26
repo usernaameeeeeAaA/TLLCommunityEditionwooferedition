@@ -513,6 +513,7 @@ Candy
 monsters:
 Monsters/whatthehell virus=999999
 Monsters/whatthehell2 virus=999999
+Monsters/keymond virus=999999
 Monsters/Monster_toejammer_undof coins=0
 Monsters/Monster_noggin_undof coins=0
 Monsters/Monster_noggin_rare_undof coins=0
