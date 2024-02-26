@@ -64,8 +64,8 @@ Monsters/Monster_bridgit_young 99
 Monsters/Monster_frondley_young 99
 Monsters/Monster_gloptic_young 99
 
-Monsters/Monster_jeeode_young=Monsters/Monster_reedling_young+Monsters/Monster_fluoress_young 99
-Monsters/Monster_yool_young=Monsters/Monster_stogg_young+Monsters/Monster_gloptic_young 99
+Monsters/Monster_jeeode_young=Monsters/Monster_reedling_young+Monsters/Monster_fluoress_young 10
+Monsters/Monster_yool_young=Monsters/Monster_stogg_young+Monsters/Monster_gloptic_young 10
 Monsters/Monster_punkleton_young=Monsters/Monster_reedling_young+Monsters/Monster_oaktopus_young 99
 
 ;
@@ -129,5 +129,7 @@ Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_brassc
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_keytrus 99
 Monsters/Monster_ghazt_undof=Monsters/Monster_sprinklate+Monsters/Monster_thrumble_undof 99
 
-Monsters/whatthehell=Monsters/Monster_marshflamo+Monsters/Monster_gumtromp 1
-Monsters/whatthehell2=Monsters/Monster_marshflamo+Monsters/Monster_sprinklate 2
+Monsters/whatthehell=Monsters/Monster_marshflamo+Monsters/Monster_gumtromp 2
+Monsters/whatthehell2=Monsters/Monster_marshflamo+Monsters/Monster_sprinklate 1
+
+toir=Monsters/Monster_stogg_undof+Monsters/Monster_keytrus 40
