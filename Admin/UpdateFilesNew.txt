@@ -17,6 +17,7 @@ monster_jamboree_rare_undof entity Monsters/Monster_jamboree_rare_undof
 monster_knife_rare entity Monsters/Monster_knife_rare
 
 monster_VOIDTRUS entity Monsters/Monster_VOIDTRUS
+monster_keymond entity Monsters/Monster_keymond
 
 monster_bone_candy entity Monsters/Monster_bone_candy
 
