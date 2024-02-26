@@ -1,4 +1,4 @@
-GYATTTTTTT
+candycane
 
 monster_geode entity Monsters/Monster_jeeode_young
 monster_yool_young entity Monsters/Monster_yool_young
@@ -16,7 +16,6 @@ monster_phangler_rare_undof entity Monsters/Monster_phangler_rare_undof
 monster_jamboree_rare_undof entity Monsters/Monster_jamboree_rare_undof
 
 monster_VOIDTRUS entity Monsters/Monster_VOIDTRUS
-monster_keymond entity Monsters/Monster_keymond
 
 monster_bone_candy entity Monsters/Monster_bone_candy
 
