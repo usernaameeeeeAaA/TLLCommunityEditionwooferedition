@@ -15,6 +15,7 @@ monster_knife_rare entity Monsters/Monster_knife_rare
 monster_quibblegm_rare entity Monsters/Monster_quibblegm_rare
 
 monster_VOIDTRUS entity Monsters/Monster_VOIDTRUS
+monster_keymond entity Monsters/Monster_keymond
 knott_special_rare entity Monsters/Knott_special_rare
 
 toir entity toir
