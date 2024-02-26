@@ -207,7 +207,7 @@ Monsters/Monster_knife=Banchi
 Monsters/Monster_knife_bio=Banchi is the beloved mythical of Candy Island. For years untold, the Banchi have been making the popular glutinous rice snack that is the monster-mochi, through which they also play their unique song. A rumor says that they use a secret ingredient to make their monster-mochi make a sound on impact, but no-one really knows what it is. Some speculations suggest that a certain feline spectral figure helped them out- someone who Banchi refers to as family.
 
 Monsters/Monster_knife_rare=Rare Banchi
-Monsters/Monster_Knife_rare_bio=this is the TRUE Monsters/whatthehell..... also erickwub i know you are looking at this
+Monsters/Monster_Knife_rare_bio=Wow! It appears this once-cute and cuddly monster lost its sweet tooth and gained a taste for the savoury! This sub-species of Banchi gained a darker and more luscious coat so it can hunt easier. Instead of its sweet mochi balls, the Rare Banchi plays on fried nondescript cephalopod balls! Its teeth have also adapted, becoming flatter to eat the balls easier. Unfortunately, it eats hair too. 
 
 Monsters/Monster_wheezel=Wheezel
 Monsters/Monster_wheezel_bio=Wheezel bio
