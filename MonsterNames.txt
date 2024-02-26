@@ -1551,7 +1551,7 @@ Kayno
 Torchbearah
 Tribahlla
 ;
-Monsters/Monster_noggin_young,Monsters/Monster_noggin,Monsters/Monster_noggin_undof
+Monsters/Monster_noggin_young,Monsters/Monster_noggin,Monsters/Monster_noggin_undof,Monsters/Monster_noggin_undof_costume_candycorn
 Dwayne
 Argus
 Boreas
