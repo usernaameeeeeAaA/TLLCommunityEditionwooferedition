@@ -8,7 +8,7 @@ Decoration/Decoration_test1 2
 ;
 Wubbox_young City
 Monsters/Monster_jeeode_young 2
-Monsters/Monster_jeeode_young 2
+Monsters/Monster_yool_young 2
 ;
 Fleechwurm Candy
 Monsters/Monster_toejammer_undof 1
