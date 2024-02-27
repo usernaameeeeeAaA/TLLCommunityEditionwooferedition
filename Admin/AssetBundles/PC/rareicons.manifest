@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3727740458
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4678f75a8e629bb289ac1eb85f032e76
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sprite/koodahcane_rare.asset
+- Assets/Sprite/gobstomper_rare.asset
+- Assets/Sprite/claramel_rare.asset
+- Assets/Texture2D/icons.png
+- Assets/Sprite/brasscuit_rare.asset
+- Assets/Sprite/marshflamo_rare.asset
+- Assets/Sprite/keytrus_rare.asset
+- Assets/Sprite/Knott_special_rare.asset
+Dependencies: []
