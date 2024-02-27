@@ -13,9 +13,10 @@ toir_bio=RIOT IS THAT YOU
 Monsters/Monster_keymond=Keymond
 Monsters/Monster_keymond_bio=what the fuck is this. yeah, I just swore.
 
+Monsters/Monster_wubbox=Wubbox
 Monsters/Monster_wubbox_young=Young Wubbox
-Monsters/Monster_wubbox_young_bio=One day as the Monsters were tunneling underground, they stumbled upon an immense vault containing several of the mysterious objects known as the Wubbox. Very little is known of their origin or purpose, save a few observations: after being incubated in the Nursery, sample analysis of the box's exterior indicates that it shares traits with every known Natural Monster species - in fact, it even has specialized compartments with an otherworldly shrinking technology. The box is also imbued with an elemental energy unfamiliar to those on the surface - a shocking discovery, to say the least.
-Gather some intrepid Monster volunteers and see what happens when you 'zap' them!
+Monsters/Monster_wubbox_young_bio=One day as the Monsters were tunneling underground, they stumbled upon an immense vault containing several of the mysterious objects known as the Wubbox. Very little is known of their origin or purpose, save a few observations: after being incubated in the Nursery, sample analysis of the box's exterior indicates that it shares traits with every known Natural Monster species - in fact, it even has specialized compartments with an otherworldly shrinking technology. The box is also imbued with an elemental energy unfamiliar to those on the surface - a shocking discovery, to say the least. Gather some intrepid Monster volunteers and see what happens when you 'zap' them!
+Monsters/Monster_wubbox_young_awake_bio=Eureka! The Wubbox awakes! As it turns out, this extraordinary Electric Elemental is vital to the life processes of the Colossal island spirits that the other singing denizens call home. The shrunken Monsters used to power up the creature report that the inside is as fun as any Playground they've ever seen, so they are happy to stay indefinitely. The robotic chirps and whistles it uses to express itself can take some getting used to, but eventually become a beloved and inextricable part of the island's tune. Besides, it's all the rage in 'current' music.
 
 skibiditrus=Skibiditrus
 skibiditrus_bio=STOP LETTING ME USE A COMPUTER
@@ -86,7 +87,7 @@ Monsters/Monster_gloptic_young_bio=Gloptic puddlings are notoriously slippery, w
 Monsters/Monster_punkleton_young=Young Punkleton
 Monsters/Monster_punkleton_young_bio=Boo! Young Punkletons are said to have emerged from the pumpkins that litter the Floating City, enchanted by the harvest moon. The gourdly ghouls love to creep up behind fellow monsterlings, before surprising them- with loads of tasty treats!
 
-Monsters/Monster_yool=Lost Young Yool
+Monsters/Monster_yool=Yool
 Monsters/Monster_yool_young=Lost Young Yool
 Monsters/Monster_yool_young_bio=As the snow lay round about (deep and crispy and even) one wintry night long ago, a group of Monsters gathered around to construct the first coldman (snowman, for you human world types). They laughed and made merry, and rejoiced in the warmth of each other's company during this hibernal pastime. That wasn't the only thing that was warm, though - the frenzy and frolicking of the Monsters at play (especially the Fire Monsters) began to melt the coldman! To their utter surprise, as the powdery snow fell away, a young Monster carried by only its beard was unveiled. At first sight of the Seasonal, the Monsters felt a surge of holiday cheer and goodwill towards Monsters. And thus, the Yool was born, forever after celebrated as the keeper of joy to the Monster World.
 
