@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3670273209
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce2c44152dada4cef721ae9f3e93758d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sprite/gobstomper_rare.asset
+- Assets/Sprite/claramel_rare.asset
+- Assets/Sprite/marshflamo_rare.asset
+- Assets/Texture2D/claramel_rare.png
+- Assets/Texture2D/marshflamo_rare.png
+- Assets/Texture2D/gobstomper_rare.png
+Dependencies: []
