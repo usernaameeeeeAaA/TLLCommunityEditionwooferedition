@@ -1148,7 +1148,7 @@ str_class_special=Special
 str_class_special=Special (rare)
 str_class_special-l=Special (lost)
 
-str_credits_translation=Portuguese translations + Helping
+str_credits_translation=Portuguese translations, some help and msm rares
 
 str_teleporter=Symphonic Zeppelin
 str_teleporter2=Zeppelin
@@ -1297,6 +1297,7 @@ str_credits_raremarsh=Rare Marshflamo Spritesheet
 str_credits_rarechimb=Rare Chimbickle Spritesheet + Bio
 str_credits_rarefadom=Rare Jastanaw Spritesheet
 str_credits_rareclar=Rare Claramel Spritesheet
+str_credits_icons=New monster book icons
 
 str_riotcredit=Credit to riotlove for TLL Community Edition!
 
