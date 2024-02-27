@@ -1,4 +1,4 @@
-raregobs3
+youngwubbox_entity
 
 rarecandyeggs sprites eggs
 rareicons sprites icons
