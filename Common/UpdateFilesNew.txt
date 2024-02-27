@@ -1,4 +1,4 @@
-youngwubbox_entity
+youngwubbox_entity_fixed
 
 monster_wubbox_young entity Monsters/Monster_wubbox_young
 monster_jeeode_young entity Monsters/Monster_jeeode_young
