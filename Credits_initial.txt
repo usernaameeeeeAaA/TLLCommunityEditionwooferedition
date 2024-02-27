@@ -28,6 +28,9 @@ Sneezer
 <Title>str_credits_translation
 ErickWub
 
+<Title>str_credits_icons
+Blarrettheblarret
+
 <Title>str_credits_partner
-msm.fan aka anon
+msm.fan aka anon/wubbubunga
 
