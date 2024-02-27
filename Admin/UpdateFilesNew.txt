@@ -1,4 +1,4 @@
-youngwubbox_entity_fixed
+youngwubbox_entity_ID
 
 rarecandyeggs sprites eggs
 rareicons sprites icons
