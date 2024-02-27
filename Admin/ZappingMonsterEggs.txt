@@ -12,6 +12,12 @@ Monsters/Monster_jeeode_young 1
 Monsters/Monster_yool_young 1
 Monsters/Monster_yool_young 1
 ;
+Wubbox_young City
+Monsters/Monster_jeeode_young 1
+Monsters/Monster_jeeode_young 1
+Monsters/Monster_yool_young 1
+Monsters/Monster_yool_young 1
+;
 Fleechwurm Candy
 Monsters/Monster_toejammer_undof 1
 ;
