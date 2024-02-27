@@ -100,6 +100,7 @@ Monsters/Monster_marshflamo 99
 Monsters/Monster_brasscuit 99
 Monsters/Monster_gobstomper 99
 Monsters/Monster_claramel 99
+Monsters/Monster_claramel_rare 99
 Monsters/Monster_treble 99
 Monsters/Monster_ghazt 99
 Monsters/Monster_jamboree 99
