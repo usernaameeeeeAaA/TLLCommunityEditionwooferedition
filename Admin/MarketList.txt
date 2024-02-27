@@ -513,7 +513,6 @@ Candy
 monsters:
 Monsters/whatthehell virus=999999
 Monsters/whatthehell2 virus=999999
-Monsters/Monster_keymond virus=999999
 Monsters/Monster_toejammer_undof coins=0
 Monsters/Monster_noggin_undof coins=0
 Monsters/Monster_noggin_rare_undof coins=0
@@ -546,7 +545,6 @@ Monsters/Monster_dipster_5 coins=0
 Monsters/Monster_dipster_6 coins=0
 Monsters/Monster_dipster_7 coins=0
 Monsters/Monster_knife coins=0
-Monsters/Monster_knife_rare diamonds=1987
 Monsters/Monster_jamboree_undof coins=0
 Monsters/Monster_ghazt_undof coins=0
 Monsters/Monster_fleechwurm_undof coins=0
@@ -554,6 +552,7 @@ Monsters/Monster_wubbox_undof coins=0
 Monsters/Monster_wubbox_rare_undof coins=0
 Monsters/Monster_jobo coins=0
 Monsters/Monster_treble coins=0
+Monsters/Monster_bone_candy coins = 0
 Monsters/Krillby diamonds=0
 -
 costumes:
