@@ -1,5 +1,9 @@
 yoohoo
 
+monster_wubbox_young entity Monsters/Monster_wubbox_young
+monster_jeeode_young entity Monsters/Monster_jeeode_young
+monster_yool_young entity Monsters/Monster_yool_young
+
 monster_keytrus_rare_new entity Monsters/Monster_keytrus_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 what_the_hell entity Monsters/whatthehell
