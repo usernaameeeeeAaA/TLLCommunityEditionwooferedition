@@ -1,11 +1,13 @@
-youngWubboxFinal
+youngWubboxSounds
+
+monster_wubbox_young_new entity Monsters/Monster_wubbox_young_new
+wubbox_city_sound audio City
 
 rarecandyeggs sprites eggs
 rareicons sprites icons
 
 monster_geode entity Monsters/Monster_jeeode_young
 monster_yool_young entity Monsters/Monster_yool_young
-monster_wubbox_young_new entity Monsters/Monster_wubbox_young_new
 
 monster_keytrus_rare_new entity Monsters/Monster_keytrus_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
