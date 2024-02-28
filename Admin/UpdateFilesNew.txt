@@ -1,6 +1,7 @@
-youngWubboxUn_Sounds
+youngWubboxAnim
 
 monster_wubbox_young_new entity Monsters/Monster_wubbox_young_new
+
 
 rarecandyeggs sprites eggs
 rareicons sprites icons
