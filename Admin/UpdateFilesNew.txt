@@ -1,4 +1,5 @@
 youngWubboxAudio
+city_new_mid midi City
 yough_wubbox_sound audio City
 
 monster_wubbox_young_new entity Monsters/Monster_wubbox_young_new
