@@ -221,7 +221,7 @@ Monsters/Monster_wheezel_rock=Wheezel Rock
 Monsters/Monster_wheezel_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten.
 
 Monsters/Monster_knurv=Knurv
-Monsters/Monster_knurv_bio=Knurv bio
+Monsters/Monster_knurv_bio=Quinntendo's fav monster (placeholder bio)
 
 Monsters/Monster_knurv_rock=Knurv Rock
 Monsters/Monster_knurv_rock_bio=Use some resources to carve and polish this special Hummatite rock, and form it into a Dreamythical from dreams long forgotten.
