@@ -1197,7 +1197,7 @@ Vibriss
 Wyska
 Xander
 ;
-Monsters/Monster_wubbox_undof,Monsters/Monster_wubbox,Monsters/Monster_wubbox_undof_awake,Monsters/Monster_wubbox_young,Monsters/Monster_wubbox_young_awake
+Monsters/Monster_wubbox_undof,Monsters/Monster_wubbox,Monsters/Monster_wubbox_undof_awake,Monsters/Monster_wubbox_young_new,Monsters/Monster_wubbox_young_new_awake
 Bowhaus
 Bolt
 Drawp
