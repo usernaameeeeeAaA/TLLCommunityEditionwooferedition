@@ -1,6 +1,8 @@
-youngWubboxFinal
+youngWubboxBubl
 
 monster_wubbox_young entity Monsters/Monster_wubbox_young
+
+
 monster_jeeode_young entity Monsters/Monster_jeeode_young
 monster_yool_young entity Monsters/Monster_yool_young
 monster_wubbox_young_new entity Monsters/Monster_wubbox_young_new
