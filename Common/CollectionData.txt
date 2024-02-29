@@ -91,6 +91,7 @@ Monsters/Knott_9
 Monsters/Knott_10
 Monsters/Knott_10_rare
 Monsters/Knott_special
+Monsters/Knott_special_rare
 ;
 Desert:
 Monsters/Monster_scaratar
