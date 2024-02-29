@@ -419,5 +419,5 @@ Monsters/Loodvigg coins=0 celestial 0 9 coins=0@120@coins=60 Celestial-r , 0 0
 Monsters/Buzzinga coins=0 mythical-o 0 9 coins=0@120@coins=60 Mythical , 0 0
 Monsters/Shlep coins=0 mythical-o@dream 0 9 coins=0@120@coins=60 Mythical , 0 0
 
-Monsters/whatthehell coins=0 Big 0 420 coins=0@666@coins=6969696969 Special , 0 0
-Monsters/whatthehell2 coins=0 Big 0 420 coins=0@666@coins=6969696969 Special-r , 0 0
+Monsters/whatthehell coins=0 Big 0 420 coins=0@666@coins=6969696969 Special ,whatthehell1 0 0
+Monsters/whatthehell2 coins=0 Big 0 420 coins=0@666@coins=6969696969 Special-r ,whatthehell2 0 0
