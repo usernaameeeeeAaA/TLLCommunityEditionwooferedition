@@ -7,3 +7,4 @@ Fix Rare Marshflamo's texture thing
 Rare Banchi
 young monsters from 3d tll
 make mobile assetbundles
+make the rest of the eggs sprites
