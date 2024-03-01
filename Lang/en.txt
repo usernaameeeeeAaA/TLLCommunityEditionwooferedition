@@ -1052,6 +1052,9 @@ str_island_Minigame_YapLeap=Yap Leap (Minigame)
 str_island_dream=island_demented_dream_ERROR:
 str_island_dream_bio=what the actual fwog
 
+str_island_credit=To Karanu and others, Credit RiotLove for the game to come back.
+str_island_credit_bio=To Karanu and others, Credit RiotLove for the game to come back.
+
 str_island_MainGame=Ohio Island
 str_island_MainGame_bio=Sticking out your Yap for the Handmond
 
