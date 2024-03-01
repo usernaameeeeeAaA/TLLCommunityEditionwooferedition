@@ -4,7 +4,7 @@ yough_wubbox_sound_1 audio City
 
 monster_wubbox_young_new entity Monsters/Monster_wubbox_young_new
 rarecandyeggs sprites eggs
-rareicons sprites icons
+custom_icons sprites icons
 
 monster_geode entity Monsters/Monster_jeeode_young
 monster_yool_young entity Monsters/Monster_yool_young
