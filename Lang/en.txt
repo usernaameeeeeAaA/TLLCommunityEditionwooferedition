@@ -1155,8 +1155,6 @@ str_class_special=Special
 str_class_special=Special (rare)
 str_class_special-l=Special (lost)
 
-str_credits_translation=Portuguese translations, some help and msm rares
-
 str_teleporter=Symphonic Zeppelin
 str_teleporter2=Zeppelin
 str_teleporter_target=The Zeppelin will arrive at <color="green"><islandName></color> in <time>\nWould you like to speed it up for <color=#4EFFF5><sprite name=diamonds><amount></color>?
