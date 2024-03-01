@@ -1,4 +1,5 @@
 City 0 Complete z
+credit 0 Complete NoZeppelin
 EM 0 Complete z
 Candy 4 Complete z
 Knottshurr 10 Complete NoZeppelin
