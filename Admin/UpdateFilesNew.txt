@@ -1,4 +1,4 @@
-egyptPIPESISMAYBEHAPPENEING
+egyptPIPESISMAYBEHAPPENEING2
   
 city_new_mid midi
 yough_wubbox_sound audio City
@@ -32,7 +32,7 @@ knott_special_rare entity Monsters/Knott_special_rare
 
 monster_noggin_undof_costume_candycorn entity Monsters/Monster_noggin_undof_costume_candycorn
 
-egyptpipes_scene scene new/EgpytPipes
+egyptpipes_scene scene new/EgyptPipes
 
 toir entity toir
 skibiditrus entity skibiditrus
