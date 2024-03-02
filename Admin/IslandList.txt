@@ -3,7 +3,6 @@ EM
 Candy
 Desert
 EgyptPipes
-egyptpipes_scene
 Organs
 Minigame_yapleap
 TI
@@ -12,4 +11,3 @@ GM
 Knottshurr
 Meduza
 dream
-e
