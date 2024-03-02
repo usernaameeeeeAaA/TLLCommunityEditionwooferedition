@@ -1,7 +1,7 @@
 egyptPIPESISMAYBEHAPPENEING
   
 city_new_mid midi
-yough_wubbox_sound_1 audio City
+yough_wubbox_sound audio City
 
 monster_wubbox_young_new entity Monsters/Monster_wubbox_young_new
 rarecandyeggs sprites eggs

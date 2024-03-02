@@ -1046,6 +1046,9 @@ str_island_GM_bio=bio
 str_island_EgyptPipes=Archaic Dunes
 str_island_EgyptPipes_bio=Archaic yes
 
+str_island_new/EgpytPipes=Archaic Dunes but its a new scene (test)
+str_island_new/EgpytPipes=Archaic no
+
 str_island_Christmas=Christmas Island
 str_island_Christmas_bio=As the days are getting colder, something may not be getter colder, and that is the cheer of Christmas! Come celebrate the song of the season on this island.
 
@@ -1055,8 +1058,8 @@ str_island_Minigame_YapLeap=Yap Leap (Minigame)
 str_island_dream=island_demented_dream_ERROR:
 str_island_dream_bio=what the actual fwog
 
-str_island_credit=To Karanu and others, Credit RiotLove for the game to come back.
-str_island_credit_bio=To Karanu and others, Credit RiotLove for the game to come back.
+str_island_Credits=To Karanu and others, Credit RiotLove for the game to come back.
+str_island_Credits_bio=To Karanu and others, Credit RiotLove for the game to come back.
 
 str_island_MainGame=Ohio Island
 str_island_MainGame_bio=Sticking out your Yap for the Handmond
