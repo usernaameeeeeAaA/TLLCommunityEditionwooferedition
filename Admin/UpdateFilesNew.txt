@@ -1,5 +1,6 @@
-marshywarshy
+cooktube
 
+monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 
 
@@ -17,7 +18,6 @@ monster_keytrus_rare_new entity Monsters/Monster_keytrus_rare
 
 what_the_hell entity Monsters/whatthehell
 whatthehell2 entity Monsters/whatthehell2
-monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
 monster_koodahcane_rare entity Monsters/Monster_koodahcane_rare
 monster_claramel_rare entity Monsters/Monster_claramel_rare
 monster_gobstomper_rare entity Monsters/Monster_gobstomper_rare
