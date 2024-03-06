@@ -1,4 +1,4 @@
-cooktube
+choccosaur
 
 monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
