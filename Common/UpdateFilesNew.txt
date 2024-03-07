@@ -1,9 +1,8 @@
-choccosaur
-
+trumpetcookie
 monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
+
+
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
-
-
 monster_wubbox_young entity Monsters/Monster_wubbox_young
 
 custom_icons sprites icons
