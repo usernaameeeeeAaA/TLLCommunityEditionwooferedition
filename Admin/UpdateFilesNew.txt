@@ -1,12 +1,9 @@
 maybe_anim_fix
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 
-
-
-
 custom_icons sprites icons
 
-monster_brasscuit_rare entity Monsters/Monster_brasscuit_rare
+monster_brasscuit_rare_new_again entity Monsters/Monster_brasscuit_rare
 
 city_new_mid midi
 yough_wubbox_sound audio City
