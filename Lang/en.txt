@@ -1325,9 +1325,9 @@ Monsters/Monster_quibblegm_rare=Rare Jastanaw
 Monsters/Monster_quibblegm_rare_bio=Once apon a time, in a land far in time, a Jastanaw was peacefully enjoying their stay at Gamma Water Island, but suddenly, and without warning, AH! A Paint Bucket landed on Jastanaw, causing it to change colors and dent one of their horns. They seemed confused but a ‎Kelpebbul came and got the nasty bucket off of Jastanaw.
 
 Monsters/Krillby=Krillby
-Monsters/Krillby_bio=Jolene will do anything to get this monster on any island, doesn't matter which game.
+Monsters/Krillby_bio=Quinn will do anything to get this monster on any island, doesn't matter which game.
 Monsters/Krillby_rare=Rare Krillby
-Monsters/Krillby_rare_bio=Jolene will also do anything to get this monster on any island, doesn't matter which game.
+Monsters/Krillby_rare_bio=Quinn will also do anything to get this monster on any island, doesn't matter which game.
 Monsters/Congle=Congle
 Monsters/Congle_bio=moreshore
 Monsters/Gnarls=Gnarls
