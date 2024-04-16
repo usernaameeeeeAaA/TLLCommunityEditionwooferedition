@@ -1,7 +1,6 @@
 maybe_anim_fix
 monster_ElephantJabber entity Monsters/Monster_ElephantJabber
-desert_mid_elephant_update midi
-elephant_sound audio
+desert_elephant_sound audio
 
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 
