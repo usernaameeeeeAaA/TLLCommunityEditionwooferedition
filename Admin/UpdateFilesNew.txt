@@ -1,4 +1,6 @@
 maybe_anim_fix
+monster_elephant entity Monsters/Monster_ElephantJabber
+
 monster_marshflamo_rare entity Monsters/Monster_marshflamo_rare
 
 custom_icons sprites icons

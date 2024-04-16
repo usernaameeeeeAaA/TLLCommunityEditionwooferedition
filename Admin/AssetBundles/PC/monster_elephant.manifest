@@ -1,0 +1,117 @@
+ManifestFileVersion: 0
+CRC: 1701257082
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 697e7b833bf95d00d2162f1c92cf6848
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e977300975080a7c8a3f9410a4dd7d8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 70
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 771ad8c0d37862ac4d67ef83565c9ed8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb6a9381bd1153e90fb3841230adf0c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6f112621bd0f982d28074fe8106e3ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9dee0e200cf41c63f76c055f7c284f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 001ccee39560ebb507f0b60422daef98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20f101d6086ee11eb76e4c7e97048caa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aecae2a74e033ea0f3031a0758bd00be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19a73588fd8a4d5b7809344e58721ed3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5df19feed33e984582a46693dbdb660, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48efa0cfb8a4d6b4901b88b6bb4a8e09, type: 3}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/resources/monsters/common/Monster_ElephantJabber.prefab
+- Assets/AnimatorController/Monster_PercFrog.controller
+- Assets/Sprite/toejammm.asset
+- Assets/MonoBehaviour/monster_C_noggin_adult_SkeletonData.asset
+- Assets/Texture2D/skeleton.png
+- Assets/TextAsset/monster_C_noggin_adult.json
+- Assets/TextAsset/monster_C_noggin_adult.atlas.txt
+- Assets/TextAsset/skeleton.atlas.txt
+- Assets/Sprite/Mushroom_big.asset
+- Assets/Material/monster_C_noggin_adult_Material-Additive.mat
+- Assets/Shader/Spine_Blend Modes_Skeleton PMA Additive.shader
+- Assets/Sprite/Mushroom_mid.asset
+- Assets/PrefabInstance/Monster_noggin.prefab
+- Assets/Material/skeleton_Material.mat
+- Assets/AnimationClip/Entity_hidden.anim
+- Assets/TextAsset/skeleton.json
+- Assets/Sprite/Totem_tll.asset
+- Assets/Material/monster_C_noggin_adult_Material.mat
+- Assets/TextAsset/ElephantJabber.json
+- Assets/Material/ElephantJabber_Material.mat
+- Assets/Sprite/Group 3.asset
+- Assets/AnimationClip/Entity_spawn.anim
+- Assets/Texture2D/sactx-1024x2048-BC7-PNG-e8dbf4e7.png
+- Assets/MonoBehaviour/skeleton_Atlas.asset
+- Assets/AnimationClip/Entitie_place.anim
+- Assets/Sprite/Spare parts.asset
+- Assets/Sprite/Bucked-o-cattail.asset
+- Assets/Texture2D/ElephantJabber.png
+- Assets/MonoBehaviour/ElephantJabber_Atlas.asset
+- Assets/Sprite/Group 4.asset
+- Assets/Sprite/Capsize berry tree.asset
+- Assets/Sprite/Group 7.asset
+- Assets/AnimationClip/Entity_zap.anim
+- Assets/Texture2D/UISprite.png
+- Assets/Sprite/Perc_frog.asset
+- Assets/Sprite/Mushroom_smal.asset
+- Assets/Texture2D/monster_C_noggin_adult.png
+- Assets/AnimationClip/Entity_idle.anim
+- Assets/MonoBehaviour/monster_C_noggin_adult_Atlas.asset
+- Assets/TextAsset/ElephantJabber.atlas.txt
+- Assets/AnimationClip/Entity_teleport.anim
+- Assets/Texture2D/Tile 1.png
+- Assets/AnimationClip/Entitie_selection.anim
+- Assets/MonoBehaviour/ElephantJabber_SkeletonData.asset
+- Assets/Sprite/Tile 1.asset
+- Assets/MonoBehaviour/skeleton_SkeletonData.asset
+- Assets/Shader/Spine_Skeleton.shader
+Dependencies: []
