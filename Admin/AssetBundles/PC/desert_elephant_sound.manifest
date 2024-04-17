@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 896114534
+CRC: 530718436
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c0cc27ebc232cb2609e069dae6373e22
+    Hash: 8ce498ddf912b54d9fa734ba5f81e7a6
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Resources/Music/Desert/Desert_ElephantJabber_1.wav
+- Assets/Resources/music/desert/Desert_ElephantJabber_1.wav
 Dependencies: []
