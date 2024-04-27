@@ -38,6 +38,8 @@ knott_special_rare entity Monsters/Knott_special_rare
 
 monster_noggin_undof_costume_candycorn entity Monsters/Monster_noggin_undof_costume_candycorn
 
+monster_noggin_demented entity Monsters/Monster_noggin_demented
+
 egyptpipes_scene scene new/EgyptPipes
 
 toir entity toir
