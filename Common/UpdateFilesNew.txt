@@ -24,3 +24,5 @@ monster_keymond entity Monsters/Monster_keymond
 knott_special_rare entity Monsters/Knott_special_rare
 
 toir entity toir
+
+staticinfo_s05_hoola.unity3d entity hoolaboolacoola
