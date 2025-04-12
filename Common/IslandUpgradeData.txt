@@ -29,7 +29,7 @@ ITM_grain=0
 Calamity: 1
 diamonds=0
 Mushroom_1=0
-Mushroom_2=10
+Mushroom_2=0
 Lilly=10
-Virus=7
-Vortex=10
+Virus=0
+Vortex=0
